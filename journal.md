@@ -8,3 +8,5 @@
 
 ## 2014-01-04 [1] upload integrate
 
+## 2014-01-04 [2] caching improve
+
