@@ -6,3 +6,5 @@
 
 ## 2014-01-03 [2] backend refactor
 
+## 2014-01-04 [1] upload integrate
+
