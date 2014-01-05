@@ -10,3 +10,5 @@
 
 ## 2014-01-04 [2] caching improve
 
+## 2014-01-05 [1] state-management improve
+
