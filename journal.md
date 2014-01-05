@@ -12,3 +12,5 @@
 
 ## 2014-01-05 [1] state-management improve
 
+## 2014-01-05 [2] filter improve
+
