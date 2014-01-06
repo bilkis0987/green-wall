@@ -14,3 +14,5 @@
 
 ## 2014-01-05 [2] filter improve
 
+## 2014-01-06 [1] hooks setup
+
