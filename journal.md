@@ -18,3 +18,5 @@
 
 ## 2014-01-06 [2] pagination create
 
+## 2014-01-07 [1] deployment fix
+
