@@ -24,3 +24,5 @@
 
 ## 2014-01-08 [1] frontend improve
 
+## 2014-01-08 [2] error-handling setup
+
