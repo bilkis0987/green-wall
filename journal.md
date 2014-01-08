@@ -22,3 +22,5 @@
 
 ## 2014-01-07 [2] routing fix
 
+## 2014-01-08 [1] frontend improve
+
