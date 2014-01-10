@@ -32,3 +32,5 @@
 
 ## 2014-01-10 [1] typescript optimize
 
+## 2014-01-10 [2] security integrate
+
