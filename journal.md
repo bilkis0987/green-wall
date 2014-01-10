@@ -30,3 +30,5 @@
 
 ## 2014-01-09 [2] express setup
 
+## 2014-01-10 [1] typescript optimize
+
