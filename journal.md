@@ -36,3 +36,5 @@
 
 ## 2014-01-11 [1] caching implement
 
+## 2014-01-11 [2] logging refactor
+
