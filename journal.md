@@ -34,3 +34,5 @@
 
 ## 2014-01-10 [2] security integrate
 
+## 2014-01-11 [1] caching implement
+
