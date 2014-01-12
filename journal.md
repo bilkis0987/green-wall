@@ -38,3 +38,5 @@
 
 ## 2014-01-11 [2] logging refactor
 
+## 2014-01-12 [1] upload optimize
+
