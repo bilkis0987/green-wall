@@ -40,3 +40,5 @@
 
 ## 2014-01-12 [1] upload optimize
 
+## 2014-01-12 [2] backend improve
+
