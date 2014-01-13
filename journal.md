@@ -44,3 +44,5 @@
 
 ## 2014-01-13 [1] documentation setup
 
+## 2014-01-13 [2] nextjs update
+
