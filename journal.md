@@ -48,3 +48,5 @@
 
 ## 2014-01-14 [1] upload add
 
+## 2014-01-14 [2] typescript optimize
+
