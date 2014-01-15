@@ -50,3 +50,5 @@
 
 ## 2014-01-14 [2] typescript optimize
 
+## 2014-01-15 [1] bugfix integrate
+
