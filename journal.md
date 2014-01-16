@@ -56,3 +56,5 @@
 
 ## 2014-01-16 [1] routing implement
 
+## 2014-01-16 [2] middleware configure
+
