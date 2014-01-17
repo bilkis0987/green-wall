@@ -60,3 +60,5 @@
 
 ## 2014-01-17 [1] state-management setup
 
+## 2014-01-17 [2] testing optimize
+
