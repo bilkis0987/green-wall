@@ -58,3 +58,5 @@
 
 ## 2014-01-16 [2] middleware configure
 
+## 2014-01-17 [1] state-management setup
+
