@@ -62,3 +62,5 @@
 
 ## 2014-01-17 [2] testing optimize
 
+## 2014-01-18 [1] typescript update
+
