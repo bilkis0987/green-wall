@@ -64,3 +64,5 @@
 
 ## 2014-01-18 [1] typescript update
 
+## 2014-01-18 [2] typescript implement
+
