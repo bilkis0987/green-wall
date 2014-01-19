@@ -66,3 +66,5 @@
 
 ## 2014-01-18 [2] typescript implement
 
+## 2014-01-19 [1] documentation configure
+
