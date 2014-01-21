@@ -74,3 +74,5 @@
 
 ## 2014-01-20 [2] profile implement
 
+## 2014-01-21 [1] component fix
+
