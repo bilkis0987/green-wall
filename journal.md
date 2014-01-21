@@ -76,3 +76,5 @@
 
 ## 2014-01-21 [1] component fix
 
+## 2014-01-21 [2] validation fix
+
