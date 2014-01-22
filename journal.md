@@ -78,3 +78,5 @@
 
 ## 2014-01-21 [2] validation fix
 
+## 2014-01-22 [1] documentation enhance
+
