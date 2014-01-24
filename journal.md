@@ -86,3 +86,5 @@
 
 ## 2014-01-23 [2] bugfix fix
 
+## 2014-01-24 [1] deployment refactor
+
