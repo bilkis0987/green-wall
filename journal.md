@@ -96,3 +96,5 @@
 
 ## 2014-01-26 [1] dashboard implement
 
+## 2014-01-26 [2] api configure
+
