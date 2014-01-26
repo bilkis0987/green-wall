@@ -94,3 +94,5 @@
 
 ## 2014-01-25 [2] backend improve
 
+## 2014-01-26 [1] dashboard implement
+
