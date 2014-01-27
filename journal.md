@@ -100,3 +100,5 @@
 
 ## 2014-01-27 [1] upload integrate
 
+## 2014-01-27 [2] logging configure
+
