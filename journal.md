@@ -104,3 +104,5 @@
 
 ## 2014-01-28 [1] auth implement
 
+## 2014-01-28 [2] validation implement
+
