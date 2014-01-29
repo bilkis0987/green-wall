@@ -106,3 +106,5 @@
 
 ## 2014-01-28 [2] validation implement
 
+## 2014-01-29 [1] dashboard integrate
+
