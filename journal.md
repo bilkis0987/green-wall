@@ -110,3 +110,5 @@
 
 ## 2014-01-29 [2] search improve
 
+## 2014-01-30 [1] caching setup
+
