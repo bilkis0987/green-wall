@@ -116,3 +116,5 @@
 
 ## 2014-01-31 [1] documentation update
 
+## 2014-01-31 [2] state-management update
+
