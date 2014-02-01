@@ -118,3 +118,5 @@
 
 ## 2014-01-31 [2] state-management update
 
+## 2014-02-01 [1] hooks implement
+
