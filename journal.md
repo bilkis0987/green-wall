@@ -120,3 +120,5 @@
 
 ## 2014-02-01 [1] hooks implement
 
+## 2014-02-01 [2] pagination refactor
+
