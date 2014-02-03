@@ -128,3 +128,5 @@
 
 ## 2014-02-03 [1] styling configure
 
+## 2014-02-03 [2] filter improve
+
