@@ -136,3 +136,5 @@
 
 ## 2014-02-05 [1] nextjs enhance
 
+## 2014-02-05 [2] frontend integrate
+
