@@ -134,3 +134,5 @@
 
 ## 2014-02-04 [2] search refactor
 
+## 2014-02-05 [1] nextjs enhance
+
