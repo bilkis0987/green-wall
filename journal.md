@@ -156,3 +156,5 @@
 
 ## 2014-02-10 [1] bugfix integrate
 
+## 2014-02-10 [2] database setup
+
