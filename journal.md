@@ -158,3 +158,5 @@
 
 ## 2014-02-10 [2] database setup
 
+## 2014-02-11 [1] deployment enhance
+
