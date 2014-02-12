@@ -164,3 +164,5 @@
 
 ## 2014-02-12 [1] api optimize
 
+## 2014-02-12 [2] frontend setup
+
