@@ -162,3 +162,5 @@
 
 ## 2014-02-11 [2] navigation setup
 
+## 2014-02-12 [1] api optimize
+
