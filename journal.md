@@ -178,3 +178,5 @@
 
 ## 2014-02-15 [2] testing optimize
 
+## 2014-02-16 [1] refactor fix
+
