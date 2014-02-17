@@ -184,3 +184,5 @@
 
 ## 2014-02-17 [1] form implement
 
+## 2014-02-17 [2] caching configure
+
