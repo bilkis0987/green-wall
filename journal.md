@@ -192,3 +192,5 @@
 
 ## 2014-02-19 [1] search fix
 
+## 2014-02-19 [2] middleware integrate
+
