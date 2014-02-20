@@ -196,3 +196,5 @@
 
 ## 2014-02-20 [1] search refactor
 
+## 2014-02-20 [2] security setup
+
