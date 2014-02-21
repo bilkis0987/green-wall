@@ -200,3 +200,5 @@
 
 ## 2014-02-21 [1] notification setup
 
+## 2014-02-21 [2] bugfix refactor
+
