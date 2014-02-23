@@ -208,3 +208,5 @@
 
 ## 2014-02-23 [1] refactor setup
 
+## 2014-02-23 [2] nextjs improve
+
