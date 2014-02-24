@@ -210,3 +210,5 @@
 
 ## 2014-02-23 [2] nextjs improve
 
+## 2014-02-24 [1] caching add
+
