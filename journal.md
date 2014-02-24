@@ -212,3 +212,5 @@
 
 ## 2014-02-24 [1] caching add
 
+## 2014-02-24 [2] error-handling setup
+
