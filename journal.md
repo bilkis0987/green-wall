@@ -218,3 +218,5 @@
 
 ## 2014-02-25 [2] refactor setup
 
+## 2014-02-26 [1] layout enhance
+
