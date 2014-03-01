@@ -232,3 +232,5 @@
 
 ## 2014-03-01 [1] error-handling add
 
+## 2014-03-01 [2] middleware setup
+
