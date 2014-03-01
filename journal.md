@@ -230,3 +230,5 @@
 
 ## 2014-02-28 [2] bugfix enhance
 
+## 2014-03-01 [1] error-handling add
+
