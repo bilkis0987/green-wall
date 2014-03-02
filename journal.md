@@ -236,3 +236,5 @@
 
 ## 2014-03-02 [1] nextjs implement
 
+## 2014-03-02 [2] search integrate
+
