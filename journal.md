@@ -234,3 +234,5 @@
 
 ## 2014-03-01 [2] middleware setup
 
+## 2014-03-02 [1] nextjs implement
+
