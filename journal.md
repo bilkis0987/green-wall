@@ -244,3 +244,5 @@
 
 ## 2014-03-04 [1] routing fix
 
+## 2014-03-04 [2] styling refactor
+
