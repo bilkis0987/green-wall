@@ -248,3 +248,5 @@
 
 ## 2014-03-05 [1] refactor implement
 
+## 2014-03-05 [2] middleware implement
+
