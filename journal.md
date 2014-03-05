@@ -246,3 +246,5 @@
 
 ## 2014-03-04 [2] styling refactor
 
+## 2014-03-05 [1] refactor implement
+
