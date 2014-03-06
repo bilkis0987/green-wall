@@ -250,3 +250,5 @@
 
 ## 2014-03-05 [2] middleware implement
 
+## 2014-03-06 [1] validation refactor
+
