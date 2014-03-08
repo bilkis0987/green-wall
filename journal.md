@@ -260,3 +260,5 @@
 
 ## 2014-03-08 [1] state-management add
 
+## 2014-03-08 [2] auth add
+
