@@ -258,3 +258,5 @@
 
 ## 2014-03-07 [2] bugfix update
 
+## 2014-03-08 [1] state-management add
+
