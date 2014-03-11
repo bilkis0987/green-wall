@@ -272,3 +272,5 @@
 
 ## 2014-03-11 [1] typescript integrate
 
+## 2014-03-11 [2] layout setup
+
