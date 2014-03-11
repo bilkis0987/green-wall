@@ -270,3 +270,5 @@
 
 ## 2014-03-10 [2] navigation refactor
 
+## 2014-03-11 [1] typescript integrate
+
