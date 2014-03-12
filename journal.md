@@ -274,3 +274,5 @@
 
 ## 2014-03-11 [2] layout setup
 
+## 2014-03-12 [1] dashboard integrate
+
