@@ -276,3 +276,5 @@
 
 ## 2014-03-12 [1] dashboard integrate
 
+## 2014-03-12 [2] nextjs implement
+
