@@ -280,3 +280,5 @@
 
 ## 2014-03-13 [1] pagination add
 
+## 2014-03-13 [2] nextjs implement
+
