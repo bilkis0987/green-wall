@@ -284,3 +284,5 @@
 
 ## 2014-03-14 [1] pagination integrate
 
+## 2014-03-14 [2] api setup
+
