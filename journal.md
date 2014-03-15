@@ -288,3 +288,5 @@
 
 ## 2014-03-15 [1] documentation optimize
 
+## 2014-03-15 [2] auth add
+
