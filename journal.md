@@ -290,3 +290,5 @@
 
 ## 2014-03-15 [2] auth add
 
+## 2014-03-16 [1] caching integrate
+
