@@ -300,3 +300,5 @@
 
 ## 2014-03-18 [1] caching integrate
 
+## 2014-03-18 [2] layout implement
+
