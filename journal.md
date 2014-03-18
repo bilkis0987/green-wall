@@ -298,3 +298,5 @@
 
 ## 2014-03-17 [2] nextjs add
 
+## 2014-03-18 [1] caching integrate
+
