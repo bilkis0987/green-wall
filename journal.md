@@ -320,3 +320,5 @@
 
 ## 2014-03-23 [1] deployment fix
 
+## 2014-03-23 [2] state-management enhance
+
