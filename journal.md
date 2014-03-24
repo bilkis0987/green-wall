@@ -322,3 +322,5 @@
 
 ## 2014-03-23 [2] state-management enhance
 
+## 2014-03-24 [1] validation refactor
+
