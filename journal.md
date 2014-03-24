@@ -324,3 +324,5 @@
 
 ## 2014-03-24 [1] validation refactor
 
+## 2014-03-24 [2] refactor configure
+
