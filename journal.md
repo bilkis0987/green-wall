@@ -344,3 +344,5 @@
 
 ## 2014-03-29 [1] upload implement
 
+## 2014-03-29 [2] middleware optimize
+
