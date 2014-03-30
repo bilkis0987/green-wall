@@ -346,3 +346,5 @@
 
 ## 2014-03-29 [2] middleware optimize
 
+## 2014-03-30 [1] mysql update
+
