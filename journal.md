@@ -350,3 +350,5 @@
 
 ## 2014-03-30 [2] dashboard add
 
+## 2014-03-31 [1] middleware improve
+
