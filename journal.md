@@ -352,3 +352,5 @@
 
 ## 2014-03-31 [1] middleware improve
 
+## 2014-03-31 [2] auth refactor
+
