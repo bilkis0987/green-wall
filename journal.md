@@ -360,3 +360,5 @@
 
 ## 2014-04-02 [1] performance add
 
+## 2014-04-02 [2] navigation configure
+
