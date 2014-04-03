@@ -362,3 +362,5 @@
 
 ## 2014-04-02 [2] navigation configure
 
+## 2014-04-03 [1] layout add
+
