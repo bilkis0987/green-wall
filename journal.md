@@ -372,3 +372,5 @@
 
 ## 2014-04-05 [1] hooks setup
 
+## 2014-04-05 [2] pagination implement
+
