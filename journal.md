@@ -378,3 +378,5 @@
 
 ## 2014-04-06 [2] deployment create
 
+## 2014-04-07 [1] typescript improve
+
