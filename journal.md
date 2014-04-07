@@ -380,3 +380,5 @@
 
 ## 2014-04-07 [1] typescript improve
 
+## 2014-04-07 [2] navigation create
+
