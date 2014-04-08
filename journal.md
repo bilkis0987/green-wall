@@ -384,3 +384,5 @@
 
 ## 2014-04-08 [1] error-handling create
 
+## 2014-04-08 [2] auth configure
+
