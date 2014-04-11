@@ -396,3 +396,5 @@
 
 ## 2014-04-11 [1] logging enhance
 
+## 2014-04-11 [2] nextjs enhance
+
