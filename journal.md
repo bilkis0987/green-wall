@@ -394,3 +394,5 @@
 
 ## 2014-04-10 [2] upload fix
 
+## 2014-04-11 [1] logging enhance
+
