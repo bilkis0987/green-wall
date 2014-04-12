@@ -398,3 +398,5 @@
 
 ## 2014-04-11 [2] nextjs enhance
 
+## 2014-04-12 [1] routing fix
+
