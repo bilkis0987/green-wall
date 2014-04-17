@@ -418,3 +418,5 @@
 
 ## 2014-04-16 [2] logging enhance
 
+## 2014-04-17 [1] error-handling implement
+
