@@ -424,3 +424,5 @@
 
 ## 2014-04-18 [1] bugfix optimize
 
+## 2014-04-18 [2] deployment refactor
+
