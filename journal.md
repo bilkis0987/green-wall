@@ -422,3 +422,5 @@
 
 ## 2014-04-17 [2] component create
 
+## 2014-04-18 [1] bugfix optimize
+
