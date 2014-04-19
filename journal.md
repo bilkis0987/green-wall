@@ -426,3 +426,5 @@
 
 ## 2014-04-18 [2] deployment refactor
 
+## 2014-04-19 [1] caching implement
+
