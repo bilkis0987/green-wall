@@ -428,3 +428,5 @@
 
 ## 2014-04-19 [1] caching implement
 
+## 2014-04-19 [2] frontend optimize
+
