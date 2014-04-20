@@ -430,3 +430,5 @@
 
 ## 2014-04-19 [2] frontend optimize
 
+## 2014-04-20 [1] typescript update
+
