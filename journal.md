@@ -432,3 +432,5 @@
 
 ## 2014-04-20 [1] typescript update
 
+## 2014-04-20 [2] logging setup
+
