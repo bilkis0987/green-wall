@@ -434,3 +434,5 @@
 
 ## 2014-04-20 [2] logging setup
 
+## 2014-04-21 [1] filter optimize
+
