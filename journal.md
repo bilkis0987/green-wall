@@ -440,3 +440,5 @@
 
 ## 2014-04-22 [1] nextjs setup
 
+## 2014-04-22 [2] state-management update
+
