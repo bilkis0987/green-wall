@@ -438,3 +438,5 @@
 
 ## 2014-04-21 [2] profile refactor
 
+## 2014-04-22 [1] nextjs setup
+
