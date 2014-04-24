@@ -448,3 +448,5 @@
 
 ## 2014-04-24 [1] mysql refactor
 
+## 2014-04-24 [2] validation improve
+
