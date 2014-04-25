@@ -452,3 +452,5 @@
 
 ## 2014-04-25 [1] state-management update
 
+## 2014-04-25 [2] dashboard setup
+
