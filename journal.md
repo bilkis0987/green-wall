@@ -450,3 +450,5 @@
 
 ## 2014-04-24 [2] validation improve
 
+## 2014-04-25 [1] state-management update
+
