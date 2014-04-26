@@ -456,3 +456,5 @@
 
 ## 2014-04-26 [1] typescript implement
 
+## 2014-04-26 [2] profile refactor
+
