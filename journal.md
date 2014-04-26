@@ -454,3 +454,5 @@
 
 ## 2014-04-25 [2] dashboard setup
 
+## 2014-04-26 [1] typescript implement
+
