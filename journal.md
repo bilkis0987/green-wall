@@ -458,3 +458,5 @@
 
 ## 2014-04-26 [2] profile refactor
 
+## 2014-04-27 [1] state-management setup
+
