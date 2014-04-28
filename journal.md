@@ -462,3 +462,5 @@
 
 ## 2014-04-27 [2] mysql setup
 
+## 2014-04-28 [1] navigation add
+
