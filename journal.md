@@ -464,3 +464,5 @@
 
 ## 2014-04-28 [1] navigation add
 
+## 2014-04-28 [2] deployment configure
+
