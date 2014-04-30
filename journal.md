@@ -472,3 +472,5 @@
 
 ## 2014-04-30 [1] deployment add
 
+## 2014-04-30 [2] navigation implement
+
