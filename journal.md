@@ -478,3 +478,5 @@
 
 ## 2014-05-01 [2] database improve
 
+## 2014-05-02 [1] caching optimize
+
