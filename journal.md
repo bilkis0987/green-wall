@@ -488,3 +488,5 @@
 
 ## 2014-05-04 [1] database integrate
 
+## 2014-05-04 [2] notification setup
+
