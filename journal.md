@@ -492,3 +492,5 @@
 
 ## 2014-05-05 [1] middleware optimize
 
+## 2014-05-05 [2] middleware add
+
