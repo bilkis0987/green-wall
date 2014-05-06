@@ -496,3 +496,5 @@
 
 ## 2014-05-06 [1] upload implement
 
+## 2014-05-06 [2] logging optimize
+
