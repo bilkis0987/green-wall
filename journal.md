@@ -508,3 +508,5 @@
 
 ## 2014-05-09 [1] navigation refactor
 
+## 2014-05-09 [2] layout update
+
