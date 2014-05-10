@@ -510,3 +510,5 @@
 
 ## 2014-05-09 [2] layout update
 
+## 2014-05-10 [1] caching enhance
+
