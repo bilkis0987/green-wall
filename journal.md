@@ -516,3 +516,5 @@
 
 ## 2014-05-11 [1] navigation integrate
 
+## 2014-05-11 [2] performance fix
+
