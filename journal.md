@@ -520,3 +520,5 @@
 
 ## 2014-05-12 [1] nextjs optimize
 
+## 2014-05-12 [2] routing add
+
