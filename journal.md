@@ -518,3 +518,5 @@
 
 ## 2014-05-11 [2] performance fix
 
+## 2014-05-12 [1] nextjs optimize
+
