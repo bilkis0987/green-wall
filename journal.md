@@ -544,3 +544,5 @@
 
 ## 2014-05-18 [1] error-handling setup
 
+## 2014-05-18 [2] hooks fix
+
