@@ -548,3 +548,5 @@
 
 ## 2014-05-19 [1] api enhance
 
+## 2014-05-19 [2] caching setup
+
