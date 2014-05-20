@@ -552,3 +552,5 @@
 
 ## 2014-05-20 [1] auth setup
 
+## 2014-05-20 [2] backend configure
+
