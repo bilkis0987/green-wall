@@ -556,3 +556,5 @@
 
 ## 2014-05-21 [1] logging add
 
+## 2014-05-21 [2] refactor configure
+
