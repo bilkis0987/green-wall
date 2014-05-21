@@ -554,3 +554,5 @@
 
 ## 2014-05-20 [2] backend configure
 
+## 2014-05-21 [1] logging add
+
