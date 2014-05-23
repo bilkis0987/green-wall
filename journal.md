@@ -564,3 +564,5 @@
 
 ## 2014-05-23 [1] hooks update
 
+## 2014-05-23 [2] typescript update
+
