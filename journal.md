@@ -566,3 +566,5 @@
 
 ## 2014-05-23 [2] typescript update
 
+## 2014-05-24 [1] filter add
+
