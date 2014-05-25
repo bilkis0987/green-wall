@@ -572,3 +572,5 @@
 
 ## 2014-05-25 [1] security configure
 
+## 2014-05-25 [2] component refactor
+
