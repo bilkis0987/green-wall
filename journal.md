@@ -574,3 +574,5 @@
 
 ## 2014-05-25 [2] component refactor
 
+## 2014-05-26 [1] filter optimize
+
