@@ -576,3 +576,5 @@
 
 ## 2014-05-26 [1] filter optimize
 
+## 2014-05-26 [2] nextjs optimize
+
