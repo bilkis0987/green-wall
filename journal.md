@@ -584,3 +584,5 @@
 
 ## 2014-05-28 [1] backend create
 
+## 2014-05-28 [2] frontend setup
+
