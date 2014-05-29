@@ -586,3 +586,5 @@
 
 ## 2014-05-28 [2] frontend setup
 
+## 2014-05-29 [1] error-handling setup
+
