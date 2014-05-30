@@ -592,3 +592,5 @@
 
 ## 2014-05-30 [1] pagination implement
 
+## 2014-05-30 [2] logging setup
+
