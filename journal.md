@@ -594,3 +594,5 @@
 
 ## 2014-05-30 [2] logging setup
 
+## 2014-05-31 [1] typescript add
+
