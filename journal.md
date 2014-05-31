@@ -596,3 +596,5 @@
 
 ## 2014-05-31 [1] typescript add
 
+## 2014-05-31 [2] api configure
+
