@@ -600,3 +600,5 @@
 
 ## 2014-06-01 [1] auth integrate
 
+## 2014-06-01 [2] documentation setup
+
