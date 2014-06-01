@@ -598,3 +598,5 @@
 
 ## 2014-05-31 [2] api configure
 
+## 2014-06-01 [1] auth integrate
+
