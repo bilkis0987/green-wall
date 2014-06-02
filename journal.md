@@ -602,3 +602,5 @@
 
 ## 2014-06-01 [2] documentation setup
 
+## 2014-06-02 [1] bugfix implement
+
