@@ -604,3 +604,5 @@
 
 ## 2014-06-02 [1] bugfix implement
 
+## 2014-06-02 [2] refactor improve
+
