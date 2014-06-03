@@ -608,3 +608,5 @@
 
 ## 2014-06-03 [1] frontend refactor
 
+## 2014-06-03 [2] error-handling update
+
