@@ -610,3 +610,5 @@
 
 ## 2014-06-03 [2] error-handling update
 
+## 2014-06-04 [1] testing setup
+
