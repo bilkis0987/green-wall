@@ -620,3 +620,5 @@
 
 ## 2014-06-06 [1] refactor update
 
+## 2014-06-06 [2] hooks configure
+
