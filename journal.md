@@ -624,3 +624,5 @@
 
 ## 2014-06-07 [1] layout improve
 
+## 2014-06-07 [2] refactor optimize
+
