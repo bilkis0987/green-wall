@@ -622,3 +622,5 @@
 
 ## 2014-06-06 [2] hooks configure
 
+## 2014-06-07 [1] layout improve
+
