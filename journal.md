@@ -636,3 +636,5 @@
 
 ## 2014-06-10 [1] backend enhance
 
+## 2014-06-10 [2] component setup
+
