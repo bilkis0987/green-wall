@@ -642,3 +642,5 @@
 
 ## 2014-06-11 [2] security implement
 
+## 2014-06-12 [1] hooks improve
+
