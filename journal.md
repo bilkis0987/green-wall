@@ -646,3 +646,5 @@
 
 ## 2014-06-12 [2] security fix
 
+## 2014-06-13 [1] notification improve
+
