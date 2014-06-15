@@ -656,3 +656,5 @@
 
 ## 2014-06-15 [1] typescript enhance
 
+## 2014-06-15 [2] typescript integrate
+
