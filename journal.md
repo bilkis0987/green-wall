@@ -654,3 +654,5 @@
 
 ## 2014-06-14 [2] form refactor
 
+## 2014-06-15 [1] typescript enhance
+
