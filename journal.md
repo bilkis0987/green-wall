@@ -658,3 +658,5 @@
 
 ## 2014-06-15 [2] typescript integrate
 
+## 2014-06-16 [1] hooks improve
+
