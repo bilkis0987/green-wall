@@ -664,3 +664,5 @@
 
 ## 2014-06-17 [1] state-management create
 
+## 2014-06-17 [2] auth add
+
