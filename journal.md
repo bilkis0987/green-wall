@@ -672,3 +672,5 @@
 
 ## 2014-06-19 [1] routing improve
 
+## 2014-06-19 [2] auth setup
+
