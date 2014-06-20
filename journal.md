@@ -674,3 +674,5 @@
 
 ## 2014-06-19 [2] auth setup
 
+## 2014-06-20 [1] documentation setup
+
