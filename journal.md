@@ -680,3 +680,5 @@
 
 ## 2014-06-21 [1] caching integrate
 
+## 2014-06-21 [2] api refactor
+
