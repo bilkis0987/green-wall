@@ -678,3 +678,5 @@
 
 ## 2014-06-20 [2] mysql implement
 
+## 2014-06-21 [1] caching integrate
+
