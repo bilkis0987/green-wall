@@ -684,3 +684,5 @@
 
 ## 2014-06-22 [1] form add
 
+## 2014-06-22 [2] frontend configure
+
