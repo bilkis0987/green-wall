@@ -686,3 +686,5 @@
 
 ## 2014-06-22 [2] frontend configure
 
+## 2014-06-23 [1] upload refactor
+
