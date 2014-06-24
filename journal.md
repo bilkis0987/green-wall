@@ -692,3 +692,5 @@
 
 ## 2014-06-24 [1] styling integrate
 
+## 2014-06-24 [2] caching integrate
+
