@@ -690,3 +690,5 @@
 
 ## 2014-06-23 [2] mysql improve
 
+## 2014-06-24 [1] styling integrate
+
