@@ -694,3 +694,5 @@
 
 ## 2014-06-24 [2] caching integrate
 
+## 2014-06-25 [1] documentation setup
+
