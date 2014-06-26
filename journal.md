@@ -700,3 +700,5 @@
 
 ## 2014-06-26 [1] state-management create
 
+## 2014-06-26 [2] refactor improve
+
