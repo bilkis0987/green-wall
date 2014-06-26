@@ -698,3 +698,5 @@
 
 ## 2014-06-25 [2] search implement
 
+## 2014-06-26 [1] state-management create
+
