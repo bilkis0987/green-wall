@@ -702,3 +702,5 @@
 
 ## 2014-06-26 [2] refactor improve
 
+## 2014-06-27 [1] mysql fix
+
