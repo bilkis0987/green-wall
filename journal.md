@@ -704,3 +704,5 @@
 
 ## 2014-06-27 [1] mysql fix
 
+## 2014-06-27 [2] documentation configure
+
