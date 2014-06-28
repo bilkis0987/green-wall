@@ -708,3 +708,5 @@
 
 ## 2014-06-28 [1] notification improve
 
+## 2014-06-28 [2] frontend implement
+
