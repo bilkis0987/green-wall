@@ -712,3 +712,5 @@
 
 ## 2014-06-29 [1] caching setup
 
+## 2014-06-29 [2] frontend create
+
