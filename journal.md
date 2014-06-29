@@ -710,3 +710,5 @@
 
 ## 2014-06-28 [2] frontend implement
 
+## 2014-06-29 [1] caching setup
+
