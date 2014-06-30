@@ -714,3 +714,5 @@
 
 ## 2014-06-29 [2] frontend create
 
+## 2014-06-30 [1] state-management optimize
+
