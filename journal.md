@@ -718,3 +718,5 @@
 
 ## 2014-06-30 [2] database add
 
+## 2014-07-01 [1] dashboard enhance
+
