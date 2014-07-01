@@ -720,3 +720,5 @@
 
 ## 2014-07-01 [1] dashboard enhance
 
+## 2014-07-01 [2] pagination update
+
