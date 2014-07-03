@@ -728,3 +728,5 @@
 
 ## 2014-07-03 [1] database implement
 
+## 2014-07-03 [2] middleware optimize
+
