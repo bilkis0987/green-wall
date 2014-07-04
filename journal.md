@@ -730,3 +730,5 @@
 
 ## 2014-07-03 [2] middleware optimize
 
+## 2014-07-04 [1] auth configure
+
