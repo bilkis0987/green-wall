@@ -732,3 +732,5 @@
 
 ## 2014-07-04 [1] auth configure
 
+## 2014-07-04 [2] dashboard add
+
