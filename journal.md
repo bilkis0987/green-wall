@@ -736,3 +736,5 @@
 
 ## 2014-07-05 [1] database implement
 
+## 2014-07-05 [2] pagination configure
+
