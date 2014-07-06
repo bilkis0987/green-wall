@@ -740,3 +740,5 @@
 
 ## 2014-07-06 [1] bugfix improve
 
+## 2014-07-06 [2] pagination update
+
