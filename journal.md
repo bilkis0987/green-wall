@@ -738,3 +738,5 @@
 
 ## 2014-07-05 [2] pagination configure
 
+## 2014-07-06 [1] bugfix improve
+
