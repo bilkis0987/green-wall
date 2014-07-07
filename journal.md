@@ -742,3 +742,5 @@
 
 ## 2014-07-06 [2] pagination update
 
+## 2014-07-07 [1] error-handling add
+
