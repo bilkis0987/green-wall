@@ -752,3 +752,5 @@
 
 ## 2014-07-09 [1] filter improve
 
+## 2014-07-09 [2] security refactor
+
