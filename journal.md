@@ -760,3 +760,5 @@
 
 ## 2014-07-11 [1] search add
 
+## 2014-07-11 [2] middleware setup
+
