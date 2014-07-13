@@ -766,3 +766,5 @@
 
 ## 2014-07-12 [2] refactor integrate
 
+## 2014-07-13 [1] performance enhance
+
