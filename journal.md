@@ -770,3 +770,5 @@
 
 ## 2014-07-13 [2] testing fix
 
+## 2014-07-14 [1] styling setup
+
