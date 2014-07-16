@@ -778,3 +778,5 @@
 
 ## 2014-07-15 [2] profile refactor
 
+## 2014-07-16 [1] frontend integrate
+
