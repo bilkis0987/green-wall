@@ -782,3 +782,5 @@
 
 ## 2014-07-16 [2] form refactor
 
+## 2014-07-17 [1] notification configure
+
