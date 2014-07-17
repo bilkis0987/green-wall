@@ -784,3 +784,5 @@
 
 ## 2014-07-17 [1] notification configure
 
+## 2014-07-17 [2] api update
+
