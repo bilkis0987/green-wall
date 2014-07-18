@@ -788,3 +788,5 @@
 
 ## 2014-07-18 [1] navigation optimize
 
+## 2014-07-18 [2] middleware configure
+
