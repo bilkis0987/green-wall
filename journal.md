@@ -786,3 +786,5 @@
 
 ## 2014-07-17 [2] api update
 
+## 2014-07-18 [1] navigation optimize
+
