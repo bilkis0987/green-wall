@@ -792,3 +792,5 @@
 
 ## 2014-07-19 [1] routing enhance
 
+## 2014-07-19 [2] pagination refactor
+
