@@ -790,3 +790,5 @@
 
 ## 2014-07-18 [2] middleware configure
 
+## 2014-07-19 [1] routing enhance
+
