@@ -796,3 +796,5 @@
 
 ## 2014-07-20 [1] navigation improve
 
+## 2014-07-20 [2] performance fix
+
