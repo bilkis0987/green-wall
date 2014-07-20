@@ -794,3 +794,5 @@
 
 ## 2014-07-19 [2] pagination refactor
 
+## 2014-07-20 [1] navigation improve
+
