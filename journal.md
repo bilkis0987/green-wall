@@ -804,3 +804,5 @@
 
 ## 2014-07-22 [1] backend improve
 
+## 2014-07-22 [2] auth update
+
