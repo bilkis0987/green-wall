@@ -806,3 +806,5 @@
 
 ## 2014-07-22 [2] auth update
 
+## 2014-07-23 [1] navigation refactor
+
