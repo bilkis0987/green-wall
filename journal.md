@@ -808,3 +808,5 @@
 
 ## 2014-07-23 [1] navigation refactor
 
+## 2014-07-23 [2] layout optimize
+
