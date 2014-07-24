@@ -812,3 +812,5 @@
 
 ## 2014-07-24 [1] express setup
 
+## 2014-07-24 [2] component create
+
