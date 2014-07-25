@@ -814,3 +814,5 @@
 
 ## 2014-07-24 [2] component create
 
+## 2014-07-25 [1] styling update
+
