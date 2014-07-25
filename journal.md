@@ -816,3 +816,5 @@
 
 ## 2014-07-25 [1] styling update
 
+## 2014-07-25 [2] dashboard refactor
+
