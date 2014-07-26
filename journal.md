@@ -820,3 +820,5 @@
 
 ## 2014-07-26 [1] upload setup
 
+## 2014-07-26 [2] navigation configure
+
