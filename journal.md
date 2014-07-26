@@ -818,3 +818,5 @@
 
 ## 2014-07-25 [2] dashboard refactor
 
+## 2014-07-26 [1] upload setup
+
