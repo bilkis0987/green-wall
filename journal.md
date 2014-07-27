@@ -824,3 +824,5 @@
 
 ## 2014-07-27 [1] frontend fix
 
+## 2014-07-27 [2] dashboard refactor
+
