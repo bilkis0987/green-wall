@@ -822,3 +822,5 @@
 
 ## 2014-07-26 [2] navigation configure
 
+## 2014-07-27 [1] frontend fix
+
