@@ -826,3 +826,5 @@
 
 ## 2014-07-27 [2] dashboard refactor
 
+## 2014-07-28 [1] dashboard implement
+
