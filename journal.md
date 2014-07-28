@@ -828,3 +828,5 @@
 
 ## 2014-07-28 [1] dashboard implement
 
+## 2014-07-28 [2] performance configure
+
