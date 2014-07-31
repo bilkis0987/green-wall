@@ -838,3 +838,5 @@
 
 ## 2014-07-30 [2] security refactor
 
+## 2014-07-31 [1] deployment update
+
