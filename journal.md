@@ -842,3 +842,5 @@
 
 ## 2014-07-31 [2] api improve
 
+## 2014-08-01 [1] mysql configure
+
