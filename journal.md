@@ -852,3 +852,5 @@
 
 ## 2014-08-03 [1] performance add
 
+## 2014-08-03 [2] middleware add
+
