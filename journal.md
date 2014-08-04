@@ -856,3 +856,5 @@
 
 ## 2014-08-04 [1] validation improve
 
+## 2014-08-04 [2] logging refactor
+
