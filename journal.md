@@ -854,3 +854,5 @@
 
 ## 2014-08-03 [2] middleware add
 
+## 2014-08-04 [1] validation improve
+
