@@ -862,3 +862,5 @@
 
 ## 2014-08-05 [2] hooks configure
 
+## 2014-08-06 [1] bugfix update
+
