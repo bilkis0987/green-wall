@@ -866,3 +866,5 @@
 
 ## 2014-08-06 [2] refactor fix
 
+## 2014-08-07 [1] pagination improve
+
