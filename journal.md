@@ -876,3 +876,5 @@
 
 ## 2014-08-09 [1] frontend update
 
+## 2014-08-09 [2] routing fix
+
