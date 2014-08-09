@@ -874,3 +874,5 @@
 
 ## 2014-08-08 [2] profile fix
 
+## 2014-08-09 [1] frontend update
+
