@@ -880,3 +880,5 @@
 
 ## 2014-08-10 [1] notification setup
 
+## 2014-08-10 [2] security fix
+
