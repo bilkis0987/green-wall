@@ -878,3 +878,5 @@
 
 ## 2014-08-09 [2] routing fix
 
+## 2014-08-10 [1] notification setup
+
