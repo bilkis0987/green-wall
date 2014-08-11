@@ -882,3 +882,5 @@
 
 ## 2014-08-10 [2] security fix
 
+## 2014-08-11 [1] logging configure
+
