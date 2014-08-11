@@ -884,3 +884,5 @@
 
 ## 2014-08-11 [1] logging configure
 
+## 2014-08-11 [2] nextjs create
+
