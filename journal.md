@@ -886,3 +886,5 @@
 
 ## 2014-08-11 [2] nextjs create
 
+## 2014-08-12 [1] component improve
+
