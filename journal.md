@@ -892,3 +892,5 @@
 
 ## 2014-08-13 [1] state-management improve
 
+## 2014-08-13 [2] component improve
+
