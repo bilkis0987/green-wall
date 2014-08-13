@@ -890,3 +890,5 @@
 
 ## 2014-08-12 [2] pagination create
 
+## 2014-08-13 [1] state-management improve
+
