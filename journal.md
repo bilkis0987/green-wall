@@ -894,3 +894,5 @@
 
 ## 2014-08-13 [2] component improve
 
+## 2014-08-14 [1] caching update
+
