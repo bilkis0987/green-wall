@@ -904,3 +904,5 @@
 
 ## 2014-08-16 [1] middleware setup
 
+## 2014-08-16 [2] caching add
+
