@@ -908,3 +908,5 @@
 
 ## 2014-08-17 [1] bugfix improve
 
+## 2014-08-17 [2] caching enhance
+
