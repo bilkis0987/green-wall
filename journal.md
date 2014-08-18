@@ -912,3 +912,5 @@
 
 ## 2014-08-18 [1] filter implement
 
+## 2014-08-18 [2] nextjs enhance
+
