@@ -914,3 +914,5 @@
 
 ## 2014-08-18 [2] nextjs enhance
 
+## 2014-08-19 [1] layout integrate
+
