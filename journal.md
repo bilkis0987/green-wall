@@ -916,3 +916,5 @@
 
 ## 2014-08-19 [1] layout integrate
 
+## 2014-08-19 [2] navigation add
+
