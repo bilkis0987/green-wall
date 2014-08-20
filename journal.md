@@ -920,3 +920,5 @@
 
 ## 2014-08-20 [1] api fix
 
+## 2014-08-20 [2] middleware improve
+
