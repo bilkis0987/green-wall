@@ -922,3 +922,5 @@
 
 ## 2014-08-20 [2] middleware improve
 
+## 2014-08-21 [1] backend configure
+
