@@ -930,3 +930,5 @@
 
 ## 2014-08-22 [2] form setup
 
+## 2014-08-23 [1] navigation add
+
