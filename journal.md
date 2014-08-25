@@ -940,3 +940,5 @@
 
 ## 2014-08-25 [1] pagination update
 
+## 2014-08-25 [2] testing implement
+
