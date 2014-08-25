@@ -938,3 +938,5 @@
 
 ## 2014-08-24 [2] middleware create
 
+## 2014-08-25 [1] pagination update
+
