@@ -944,3 +944,5 @@
 
 ## 2014-08-26 [1] typescript implement
 
+## 2014-08-26 [2] caching optimize
+
