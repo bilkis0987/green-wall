@@ -942,3 +942,5 @@
 
 ## 2014-08-25 [2] testing implement
 
+## 2014-08-26 [1] typescript implement
+
