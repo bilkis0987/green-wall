@@ -946,3 +946,5 @@
 
 ## 2014-08-26 [2] caching optimize
 
+## 2014-08-27 [1] backend configure
+
