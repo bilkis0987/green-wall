@@ -952,3 +952,5 @@
 
 ## 2014-08-28 [1] database integrate
 
+## 2014-08-28 [2] navigation refactor
+
