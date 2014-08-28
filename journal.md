@@ -950,3 +950,5 @@
 
 ## 2014-08-27 [2] performance enhance
 
+## 2014-08-28 [1] database integrate
+
