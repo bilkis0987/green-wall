@@ -956,3 +956,5 @@
 
 ## 2014-08-29 [1] form fix
 
+## 2014-08-29 [2] component optimize
+
