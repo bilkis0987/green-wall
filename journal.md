@@ -960,3 +960,5 @@
 
 ## 2014-08-30 [1] api setup
 
+## 2014-08-30 [2] nextjs integrate
+
