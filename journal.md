@@ -962,3 +962,5 @@
 
 ## 2014-08-30 [2] nextjs integrate
 
+## 2014-08-31 [1] testing implement
+
