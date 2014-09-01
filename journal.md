@@ -968,3 +968,5 @@
 
 ## 2014-09-01 [1] frontend create
 
+## 2014-09-01 [2] nextjs refactor
+
