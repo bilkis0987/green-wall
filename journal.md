@@ -970,3 +970,5 @@
 
 ## 2014-09-01 [2] nextjs refactor
 
+## 2014-09-02 [1] nextjs create
+
