@@ -982,3 +982,5 @@
 
 ## 2014-09-04 [2] middleware update
 
+## 2014-09-05 [1] notification optimize
+
