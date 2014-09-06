@@ -988,3 +988,5 @@
 
 ## 2014-09-06 [1] deployment optimize
 
+## 2014-09-06 [2] nextjs fix
+
