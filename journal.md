@@ -992,3 +992,5 @@
 
 ## 2014-09-07 [1] deployment implement
 
+## 2014-09-07 [2] logging optimize
+
