@@ -990,3 +990,5 @@
 
 ## 2014-09-06 [2] nextjs fix
 
+## 2014-09-07 [1] deployment implement
+
