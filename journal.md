@@ -996,3 +996,5 @@
 
 ## 2014-09-08 [1] dashboard integrate
 
+## 2014-09-08 [2] notification implement
+
