@@ -994,3 +994,5 @@
 
 ## 2014-09-07 [2] logging optimize
 
+## 2014-09-08 [1] dashboard integrate
+
