@@ -998,3 +998,5 @@
 
 ## 2014-09-08 [2] notification implement
 
+## 2014-09-09 [1] nextjs add
+
