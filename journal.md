@@ -1000,3 +1000,5 @@
 
 ## 2014-09-09 [1] nextjs add
 
+## 2014-09-09 [2] hooks optimize
+
