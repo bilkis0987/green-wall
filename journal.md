@@ -1016,3 +1016,5 @@
 
 ## 2014-09-13 [1] navigation refactor
 
+## 2014-09-13 [2] frontend update
+
