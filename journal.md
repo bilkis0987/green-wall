@@ -1014,3 +1014,5 @@
 
 ## 2014-09-12 [2] dashboard optimize
 
+## 2014-09-13 [1] navigation refactor
+
