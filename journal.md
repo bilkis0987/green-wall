@@ -1018,3 +1018,5 @@
 
 ## 2014-09-13 [2] frontend update
 
+## 2014-09-14 [1] dashboard configure
+
