@@ -1030,3 +1030,5 @@
 
 ## 2014-09-16 [2] hooks optimize
 
+## 2014-09-17 [1] logging configure
+
