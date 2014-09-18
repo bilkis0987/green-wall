@@ -1034,3 +1034,5 @@
 
 ## 2014-09-17 [2] performance improve
 
+## 2014-09-18 [1] error-handling improve
+
