@@ -1044,3 +1044,5 @@
 
 ## 2014-09-20 [1] routing refactor
 
+## 2014-09-20 [2] logging integrate
+
