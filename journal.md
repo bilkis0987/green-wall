@@ -1048,3 +1048,5 @@
 
 ## 2014-09-21 [1] filter add
 
+## 2014-09-21 [2] component refactor
+
