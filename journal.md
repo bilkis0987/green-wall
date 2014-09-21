@@ -1046,3 +1046,5 @@
 
 ## 2014-09-20 [2] logging integrate
 
+## 2014-09-21 [1] filter add
+
