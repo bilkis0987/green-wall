@@ -1050,3 +1050,5 @@
 
 ## 2014-09-21 [2] component refactor
 
+## 2014-09-22 [1] filter improve
+
