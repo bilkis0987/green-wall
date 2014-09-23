@@ -1054,3 +1054,5 @@
 
 ## 2014-09-22 [2] database implement
 
+## 2014-09-23 [1] typescript improve
+
