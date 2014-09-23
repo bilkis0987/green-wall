@@ -1056,3 +1056,5 @@
 
 ## 2014-09-23 [1] typescript improve
 
+## 2014-09-23 [2] mysql refactor
+
