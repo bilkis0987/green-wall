@@ -1060,3 +1060,5 @@
 
 ## 2014-09-24 [1] nextjs configure
 
+## 2014-09-24 [2] validation setup
+
