@@ -1058,3 +1058,5 @@
 
 ## 2014-09-23 [2] mysql refactor
 
+## 2014-09-24 [1] nextjs configure
+
