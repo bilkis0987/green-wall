@@ -1062,3 +1062,5 @@
 
 ## 2014-09-24 [2] validation setup
 
+## 2014-09-25 [1] logging add
+
