@@ -1064,3 +1064,5 @@
 
 ## 2014-09-25 [1] logging add
 
+## 2014-09-25 [2] performance refactor
+
