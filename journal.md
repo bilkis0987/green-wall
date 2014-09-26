@@ -1068,3 +1068,5 @@
 
 ## 2014-09-26 [1] express add
 
+## 2014-09-26 [2] logging configure
+
