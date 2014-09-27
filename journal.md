@@ -1072,3 +1072,5 @@
 
 ## 2014-09-27 [1] dashboard fix
 
+## 2014-09-27 [2] typescript refactor
+
