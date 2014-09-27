@@ -1070,3 +1070,5 @@
 
 ## 2014-09-26 [2] logging configure
 
+## 2014-09-27 [1] dashboard fix
+
