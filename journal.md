@@ -1076,3 +1076,5 @@
 
 ## 2014-09-28 [1] express implement
 
+## 2014-09-28 [2] notification configure
+
