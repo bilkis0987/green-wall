@@ -1078,3 +1078,5 @@
 
 ## 2014-09-28 [2] notification configure
 
+## 2014-09-29 [1] styling update
+
