@@ -1084,3 +1084,5 @@
 
 ## 2014-09-30 [1] state-management implement
 
+## 2014-09-30 [2] logging integrate
+
