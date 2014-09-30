@@ -1082,3 +1082,5 @@
 
 ## 2014-09-29 [2] testing enhance
 
+## 2014-09-30 [1] state-management implement
+
