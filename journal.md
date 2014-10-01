@@ -1086,3 +1086,5 @@
 
 ## 2014-09-30 [2] logging integrate
 
+## 2014-10-01 [1] search enhance
+
