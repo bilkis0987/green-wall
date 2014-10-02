@@ -1092,3 +1092,5 @@
 
 ## 2014-10-02 [1] component configure
 
+## 2014-10-02 [2] logging optimize
+
