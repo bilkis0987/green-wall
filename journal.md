@@ -1090,3 +1090,5 @@
 
 ## 2014-10-01 [2] profile update
 
+## 2014-10-02 [1] component configure
+
