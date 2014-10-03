@@ -1094,3 +1094,5 @@
 
 ## 2014-10-02 [2] logging optimize
 
+## 2014-10-03 [1] hooks improve
+
