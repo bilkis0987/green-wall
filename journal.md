@@ -1096,3 +1096,5 @@
 
 ## 2014-10-03 [1] hooks improve
 
+## 2014-10-03 [2] performance improve
+
