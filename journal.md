@@ -1100,3 +1100,5 @@
 
 ## 2014-10-04 [1] documentation configure
 
+## 2014-10-04 [2] dashboard optimize
+
