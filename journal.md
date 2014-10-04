@@ -1098,3 +1098,5 @@
 
 ## 2014-10-03 [2] performance improve
 
+## 2014-10-04 [1] documentation configure
+
