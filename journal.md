@@ -1102,3 +1102,5 @@
 
 ## 2014-10-04 [2] dashboard optimize
 
+## 2014-10-05 [1] bugfix integrate
+
