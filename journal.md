@@ -1104,3 +1104,5 @@
 
 ## 2014-10-05 [1] bugfix integrate
 
+## 2014-10-05 [2] styling setup
+
