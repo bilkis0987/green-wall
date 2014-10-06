@@ -1106,3 +1106,5 @@
 
 ## 2014-10-05 [2] styling setup
 
+## 2014-10-06 [1] dashboard improve
+
