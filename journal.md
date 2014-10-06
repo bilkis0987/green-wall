@@ -1108,3 +1108,5 @@
 
 ## 2014-10-06 [1] dashboard improve
 
+## 2014-10-06 [2] typescript setup
+
