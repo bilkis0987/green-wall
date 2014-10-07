@@ -1110,3 +1110,5 @@
 
 ## 2014-10-06 [2] typescript setup
 
+## 2014-10-07 [1] pagination refactor
+
