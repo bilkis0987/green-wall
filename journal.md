@@ -1112,3 +1112,5 @@
 
 ## 2014-10-07 [1] pagination refactor
 
+## 2014-10-07 [2] hooks refactor
+
