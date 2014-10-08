@@ -1114,3 +1114,5 @@
 
 ## 2014-10-07 [2] hooks refactor
 
+## 2014-10-08 [1] documentation configure
+
