@@ -1124,3 +1124,5 @@
 
 ## 2014-10-10 [1] form update
 
+## 2014-10-10 [2] auth optimize
+
