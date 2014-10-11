@@ -1126,3 +1126,5 @@
 
 ## 2014-10-10 [2] auth optimize
 
+## 2014-10-11 [1] hooks improve
+
