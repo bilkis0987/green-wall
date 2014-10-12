@@ -1132,3 +1132,5 @@
 
 ## 2014-10-12 [1] hooks integrate
 
+## 2014-10-12 [2] bugfix improve
+
