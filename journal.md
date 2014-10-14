@@ -1138,3 +1138,5 @@
 
 ## 2014-10-13 [2] database update
 
+## 2014-10-14 [1] security refactor
+
