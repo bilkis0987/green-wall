@@ -1142,3 +1142,5 @@
 
 ## 2014-10-14 [2] dashboard refactor
 
+## 2014-10-15 [1] component enhance
+
