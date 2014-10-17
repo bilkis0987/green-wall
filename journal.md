@@ -1150,3 +1150,5 @@
 
 ## 2014-10-16 [2] filter create
 
+## 2014-10-17 [1] state-management update
+
