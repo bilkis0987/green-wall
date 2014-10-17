@@ -1152,3 +1152,5 @@
 
 ## 2014-10-17 [1] state-management update
 
+## 2014-10-17 [2] bugfix fix
+
