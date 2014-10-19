@@ -1160,3 +1160,5 @@
 
 ## 2014-10-19 [1] database fix
 
+## 2014-10-19 [2] bugfix update
+
