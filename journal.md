@@ -1164,3 +1164,5 @@
 
 ## 2014-10-20 [1] validation update
 
+## 2014-10-20 [2] nextjs fix
+
