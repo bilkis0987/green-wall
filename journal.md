@@ -1170,3 +1170,5 @@
 
 ## 2014-10-21 [2] error-handling refactor
 
+## 2014-10-22 [1] bugfix setup
+
