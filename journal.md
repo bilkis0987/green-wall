@@ -1178,3 +1178,5 @@
 
 ## 2014-10-23 [2] routing improve
 
+## 2014-10-24 [1] frontend configure
+
