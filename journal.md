@@ -1184,3 +1184,5 @@
 
 ## 2014-10-25 [1] caching implement
 
+## 2014-10-25 [2] bugfix improve
+
