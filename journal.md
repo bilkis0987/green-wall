@@ -1182,3 +1182,5 @@
 
 ## 2014-10-24 [2] backend update
 
+## 2014-10-25 [1] caching implement
+
