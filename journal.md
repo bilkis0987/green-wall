@@ -1188,3 +1188,5 @@
 
 ## 2014-10-26 [1] hooks add
 
+## 2014-10-26 [2] component implement
+
