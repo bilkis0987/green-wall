@@ -1190,3 +1190,5 @@
 
 ## 2014-10-26 [2] component implement
 
+## 2014-10-27 [1] security configure
+
