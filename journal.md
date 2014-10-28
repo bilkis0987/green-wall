@@ -1196,3 +1196,5 @@
 
 ## 2014-10-28 [1] error-handling create
 
+## 2014-10-28 [2] nextjs fix
+
