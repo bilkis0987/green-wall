@@ -1194,3 +1194,5 @@
 
 ## 2014-10-27 [2] documentation add
 
+## 2014-10-28 [1] error-handling create
+
