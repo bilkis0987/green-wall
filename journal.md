@@ -1204,3 +1204,5 @@
 
 ## 2014-10-30 [1] typescript fix
 
+## 2014-10-30 [2] styling configure
+
