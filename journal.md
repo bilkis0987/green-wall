@@ -1202,3 +1202,5 @@
 
 ## 2014-10-29 [2] mysql enhance
 
+## 2014-10-30 [1] typescript fix
+
