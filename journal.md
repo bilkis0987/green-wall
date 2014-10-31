@@ -1206,3 +1206,5 @@
 
 ## 2014-10-30 [2] styling configure
 
+## 2014-10-31 [1] performance optimize
+
