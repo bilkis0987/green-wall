@@ -1216,3 +1216,5 @@
 
 ## 2014-11-02 [1] error-handling integrate
 
+## 2014-11-02 [2] styling implement
+
