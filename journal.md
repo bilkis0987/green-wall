@@ -1218,3 +1218,5 @@
 
 ## 2014-11-02 [2] styling implement
 
+## 2014-11-03 [1] filter refactor
+
