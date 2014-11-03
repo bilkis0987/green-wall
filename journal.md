@@ -1220,3 +1220,5 @@
 
 ## 2014-11-03 [1] filter refactor
 
+## 2014-11-03 [2] validation fix
+
