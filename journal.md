@@ -1222,3 +1222,5 @@
 
 ## 2014-11-03 [2] validation fix
 
+## 2014-11-04 [1] nextjs implement
+
