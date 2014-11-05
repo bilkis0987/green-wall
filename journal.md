@@ -1226,3 +1226,5 @@
 
 ## 2014-11-04 [2] logging improve
 
+## 2014-11-05 [1] documentation setup
+
