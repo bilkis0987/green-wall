@@ -1230,3 +1230,5 @@
 
 ## 2014-11-05 [2] refactor create
 
+## 2014-11-06 [1] filter refactor
+
