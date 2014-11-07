@@ -1236,3 +1236,5 @@
 
 ## 2014-11-07 [1] layout improve
 
+## 2014-11-07 [2] api improve
+
