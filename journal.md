@@ -1238,3 +1238,5 @@
 
 ## 2014-11-07 [2] api improve
 
+## 2014-11-08 [1] validation implement
+
