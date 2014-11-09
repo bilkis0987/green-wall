@@ -1242,3 +1242,5 @@
 
 ## 2014-11-08 [2] api improve
 
+## 2014-11-09 [1] styling enhance
+
