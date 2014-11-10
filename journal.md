@@ -1246,3 +1246,5 @@
 
 ## 2014-11-09 [2] upload implement
 
+## 2014-11-10 [1] navigation configure
+
