@@ -1248,3 +1248,5 @@
 
 ## 2014-11-10 [1] navigation configure
 
+## 2014-11-10 [2] caching integrate
+
