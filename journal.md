@@ -1252,3 +1252,5 @@
 
 ## 2014-11-11 [1] backend update
 
+## 2014-11-11 [2] navigation refactor
+
