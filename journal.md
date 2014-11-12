@@ -1254,3 +1254,5 @@
 
 ## 2014-11-11 [2] navigation refactor
 
+## 2014-11-12 [1] performance improve
+
