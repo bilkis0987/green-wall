@@ -1264,3 +1264,5 @@
 
 ## 2014-11-14 [1] state-management improve
 
+## 2014-11-14 [2] layout optimize
+
