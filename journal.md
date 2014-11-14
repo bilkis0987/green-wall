@@ -1262,3 +1262,5 @@
 
 ## 2014-11-13 [2] testing add
 
+## 2014-11-14 [1] state-management improve
+
