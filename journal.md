@@ -1266,3 +1266,5 @@
 
 ## 2014-11-14 [2] layout optimize
 
+## 2014-11-15 [1] deployment add
+
