@@ -1272,3 +1272,5 @@
 
 ## 2014-11-16 [1] hooks update
 
+## 2014-11-16 [2] frontend create
+
