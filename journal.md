@@ -1276,3 +1276,5 @@
 
 ## 2014-11-17 [1] api add
 
+## 2014-11-17 [2] documentation integrate
+
