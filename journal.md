@@ -1280,3 +1280,5 @@
 
 ## 2014-11-18 [1] search optimize
 
+## 2014-11-18 [2] typescript integrate
+
