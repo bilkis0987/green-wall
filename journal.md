@@ -1282,3 +1282,5 @@
 
 ## 2014-11-18 [2] typescript integrate
 
+## 2014-11-19 [1] error-handling update
+
