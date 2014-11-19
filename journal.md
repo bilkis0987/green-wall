@@ -1284,3 +1284,5 @@
 
 ## 2014-11-19 [1] error-handling update
 
+## 2014-11-19 [2] documentation update
+
