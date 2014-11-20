@@ -1288,3 +1288,5 @@
 
 ## 2014-11-20 [1] auth refactor
 
+## 2014-11-20 [2] notification optimize
+
