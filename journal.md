@@ -1286,3 +1286,5 @@
 
 ## 2014-11-19 [2] documentation update
 
+## 2014-11-20 [1] auth refactor
+
