@@ -1292,3 +1292,5 @@
 
 ## 2014-11-21 [1] database refactor
 
+## 2014-11-21 [2] styling add
+
