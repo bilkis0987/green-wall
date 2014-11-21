@@ -1290,3 +1290,5 @@
 
 ## 2014-11-20 [2] notification optimize
 
+## 2014-11-21 [1] database refactor
+
