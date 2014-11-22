@@ -1296,3 +1296,5 @@
 
 ## 2014-11-22 [1] backend update
 
+## 2014-11-22 [2] nextjs fix
+
