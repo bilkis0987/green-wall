@@ -1302,3 +1302,5 @@
 
 ## 2014-11-23 [2] notification create
 
+## 2014-11-24 [1] styling optimize
+
