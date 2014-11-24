@@ -1304,3 +1304,5 @@
 
 ## 2014-11-24 [1] styling optimize
 
+## 2014-11-24 [2] state-management implement
+
