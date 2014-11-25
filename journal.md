@@ -1308,3 +1308,5 @@
 
 ## 2014-11-25 [1] notification enhance
 
+## 2014-11-25 [2] caching integrate
+
