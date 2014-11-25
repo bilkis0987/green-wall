@@ -1306,3 +1306,5 @@
 
 ## 2014-11-24 [2] state-management implement
 
+## 2014-11-25 [1] notification enhance
+
