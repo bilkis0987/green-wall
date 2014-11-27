@@ -1316,3 +1316,5 @@
 
 ## 2014-11-27 [1] component implement
 
+## 2014-11-27 [2] dashboard implement
+
