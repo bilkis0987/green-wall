@@ -1318,3 +1318,5 @@
 
 ## 2014-11-27 [2] dashboard implement
 
+## 2014-11-28 [1] error-handling configure
+
