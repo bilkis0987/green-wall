@@ -1324,3 +1324,5 @@
 
 ## 2014-11-29 [1] hooks optimize
 
+## 2014-11-29 [2] styling implement
+
