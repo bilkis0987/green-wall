@@ -1326,3 +1326,5 @@
 
 ## 2014-11-29 [2] styling implement
 
+## 2014-11-30 [1] mysql enhance
+
