@@ -1328,3 +1328,5 @@
 
 ## 2014-11-30 [1] mysql enhance
 
+## 2014-11-30 [2] security integrate
+
