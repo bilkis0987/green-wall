@@ -1332,3 +1332,5 @@
 
 ## 2014-12-01 [1] documentation optimize
 
+## 2014-12-01 [2] logging improve
+
