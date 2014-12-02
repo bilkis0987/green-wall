@@ -1334,3 +1334,5 @@
 
 ## 2014-12-01 [2] logging improve
 
+## 2014-12-02 [1] caching enhance
+
