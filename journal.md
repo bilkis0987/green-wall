@@ -1340,3 +1340,5 @@
 
 ## 2014-12-03 [1] testing improve
 
+## 2014-12-03 [2] layout integrate
+
