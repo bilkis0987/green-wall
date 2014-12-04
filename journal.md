@@ -1342,3 +1342,5 @@
 
 ## 2014-12-03 [2] layout integrate
 
+## 2014-12-04 [1] caching setup
+
