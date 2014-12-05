@@ -1346,3 +1346,5 @@
 
 ## 2014-12-04 [2] caching refactor
 
+## 2014-12-05 [1] bugfix refactor
+
