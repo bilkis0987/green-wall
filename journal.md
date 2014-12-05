@@ -1348,3 +1348,5 @@
 
 ## 2014-12-05 [1] bugfix refactor
 
+## 2014-12-05 [2] auth create
+
