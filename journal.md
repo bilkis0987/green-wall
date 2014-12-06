@@ -1352,3 +1352,5 @@
 
 ## 2014-12-06 [1] performance fix
 
+## 2014-12-06 [2] bugfix setup
+
