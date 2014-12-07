@@ -1356,3 +1356,5 @@
 
 ## 2014-12-07 [1] routing enhance
 
+## 2014-12-07 [2] nextjs update
+
