@@ -1368,3 +1368,5 @@
 
 ## 2014-12-10 [1] state-management improve
 
+## 2014-12-10 [2] database refactor
+
