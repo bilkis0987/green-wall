@@ -1366,3 +1366,5 @@
 
 ## 2014-12-09 [2] search setup
 
+## 2014-12-10 [1] state-management improve
+
