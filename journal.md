@@ -1370,3 +1370,5 @@
 
 ## 2014-12-10 [2] database refactor
 
+## 2014-12-11 [1] styling improve
+
