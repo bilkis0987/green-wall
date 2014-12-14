@@ -1382,3 +1382,5 @@
 
 ## 2014-12-13 [2] filter integrate
 
+## 2014-12-14 [1] styling refactor
+
