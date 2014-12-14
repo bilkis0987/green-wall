@@ -1384,3 +1384,5 @@
 
 ## 2014-12-14 [1] styling refactor
 
+## 2014-12-14 [2] middleware improve
+
