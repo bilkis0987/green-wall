@@ -1388,3 +1388,5 @@
 
 ## 2014-12-15 [1] database add
 
+## 2014-12-15 [2] logging refactor
+
