@@ -1396,3 +1396,5 @@
 
 ## 2014-12-17 [1] pagination create
 
+## 2014-12-17 [2] component enhance
+
