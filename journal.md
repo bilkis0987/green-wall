@@ -1398,3 +1398,5 @@
 
 ## 2014-12-17 [2] component enhance
 
+## 2014-12-18 [1] auth create
+
