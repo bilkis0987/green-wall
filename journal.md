@@ -1400,3 +1400,5 @@
 
 ## 2014-12-18 [1] auth create
 
+## 2014-12-18 [2] nextjs integrate
+
