@@ -1402,3 +1402,5 @@
 
 ## 2014-12-18 [2] nextjs integrate
 
+## 2014-12-19 [1] performance refactor
+
