@@ -1408,3 +1408,5 @@
 
 ## 2014-12-20 [1] testing implement
 
+## 2014-12-20 [2] error-handling configure
+
