@@ -1410,3 +1410,5 @@
 
 ## 2014-12-20 [2] error-handling configure
 
+## 2014-12-21 [1] caching configure
+
