@@ -1412,3 +1412,5 @@
 
 ## 2014-12-21 [1] caching configure
 
+## 2014-12-21 [2] auth implement
+
