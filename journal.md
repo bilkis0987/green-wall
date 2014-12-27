@@ -1434,3 +1434,5 @@
 
 ## 2014-12-26 [2] filter add
 
+## 2014-12-27 [1] documentation refactor
+
