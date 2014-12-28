@@ -1438,3 +1438,5 @@
 
 ## 2014-12-27 [2] layout update
 
+## 2014-12-28 [1] pagination update
+
