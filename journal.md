@@ -1446,3 +1446,5 @@
 
 ## 2014-12-29 [2] notification refactor
 
+## 2014-12-30 [1] typescript refactor
+
