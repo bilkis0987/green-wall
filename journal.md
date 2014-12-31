@@ -1452,3 +1452,5 @@
 
 ## 2014-12-31 [1] caching improve
 
+## 2014-12-31 [2] component optimize
+
