@@ -1450,3 +1450,5 @@
 
 ## 2014-12-30 [2] notification add
 
+## 2014-12-31 [1] caching improve
+
