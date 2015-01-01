@@ -3274,3 +3274,5 @@
 
 ## 2015-01-01 [2] deployment optimize
 
+## 2015-01-01 [3] middleware fix
+
