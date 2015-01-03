@@ -3286,3 +3286,5 @@
 
 ## 2015-01-03 [2] backend integrate
 
+## 2015-01-03 [3] testing configure
+
