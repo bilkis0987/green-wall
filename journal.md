@@ -3296,3 +3296,5 @@
 
 ## 2015-01-05 [1] caching add
 
+## 2015-01-05 [2] search integrate
+
