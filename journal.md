@@ -3294,3 +3294,5 @@
 
 ## 2015-01-04 [3] search create
 
+## 2015-01-05 [1] caching add
+
