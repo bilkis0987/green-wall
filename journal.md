@@ -3304,3 +3304,5 @@
 
 ## 2015-01-06 [2] middleware improve
 
+## 2015-01-06 [3] search integrate
+
