@@ -3306,3 +3306,5 @@
 
 ## 2015-01-06 [3] search integrate
 
+## 2015-01-07 [1] styling refactor
+
