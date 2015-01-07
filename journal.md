@@ -3308,3 +3308,5 @@
 
 ## 2015-01-07 [1] styling refactor
 
+## 2015-01-07 [2] state-management refactor
+
