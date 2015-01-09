@@ -3318,3 +3318,5 @@
 
 ## 2015-01-08 [3] dashboard implement
 
+## 2015-01-09 [1] middleware setup
+
