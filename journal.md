@@ -3324,3 +3324,5 @@
 
 ## 2015-01-09 [3] dashboard refactor
 
+## 2015-01-10 [1] nextjs update
+
