@@ -3326,3 +3326,5 @@
 
 ## 2015-01-10 [1] nextjs update
 
+## 2015-01-10 [2] profile configure
+
