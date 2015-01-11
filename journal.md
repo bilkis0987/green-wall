@@ -3332,3 +3332,5 @@
 
 ## 2015-01-11 [1] frontend optimize
 
+## 2015-01-11 [2] auth update
+
