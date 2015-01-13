@@ -3344,3 +3344,5 @@
 
 ## 2015-01-13 [1] pagination refactor
 
+## 2015-01-13 [2] nextjs implement
+
