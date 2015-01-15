@@ -3358,3 +3358,5 @@
 
 ## 2015-01-15 [2] form fix
 
+## 2015-01-15 [3] bugfix integrate
+
