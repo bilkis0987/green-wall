@@ -3362,3 +3362,5 @@
 
 ## 2015-01-16 [1] search setup
 
+## 2015-01-16 [2] frontend configure
+
