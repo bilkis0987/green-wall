@@ -3360,3 +3360,5 @@
 
 ## 2015-01-15 [3] bugfix integrate
 
+## 2015-01-16 [1] search setup
+
