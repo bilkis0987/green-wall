@@ -3372,3 +3372,5 @@
 
 ## 2015-01-17 [3] dashboard optimize
 
+## 2015-01-18 [1] logging integrate
+
