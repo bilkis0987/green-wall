@@ -3374,3 +3374,5 @@
 
 ## 2015-01-18 [1] logging integrate
 
+## 2015-01-18 [2] documentation update
+
