@@ -3382,3 +3382,5 @@
 
 ## 2015-01-19 [2] profile setup
 
+## 2015-01-19 [3] typescript refactor
+
