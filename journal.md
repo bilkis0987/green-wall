@@ -3384,3 +3384,5 @@
 
 ## 2015-01-19 [3] typescript refactor
 
+## 2015-01-20 [1] styling optimize
+
