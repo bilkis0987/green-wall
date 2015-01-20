@@ -3386,3 +3386,5 @@
 
 ## 2015-01-20 [1] styling optimize
 
+## 2015-01-20 [2] dashboard setup
+
