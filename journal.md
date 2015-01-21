@@ -3390,3 +3390,5 @@
 
 ## 2015-01-20 [3] bugfix optimize
 
+## 2015-01-21 [1] error-handling update
+
