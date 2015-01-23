@@ -3406,3 +3406,5 @@
 
 ## 2015-01-23 [2] profile setup
 
+## 2015-01-23 [3] typescript optimize
+
