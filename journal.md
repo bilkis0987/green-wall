@@ -3416,3 +3416,5 @@
 
 ## 2015-01-25 [1] documentation add
 
+## 2015-01-25 [2] bugfix optimize
+
