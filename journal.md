@@ -3422,3 +3422,5 @@
 
 ## 2015-01-26 [1] upload fix
 
+## 2015-01-26 [2] caching integrate
+
