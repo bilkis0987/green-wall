@@ -3436,3 +3436,5 @@
 
 ## 2015-01-28 [2] pagination refactor
 
+## 2015-01-28 [3] dashboard refactor
+
