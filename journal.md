@@ -3464,3 +3464,5 @@
 
 ## 2015-02-02 [1] typescript add
 
+## 2015-02-02 [2] logging add
+
