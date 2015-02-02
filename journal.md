@@ -3462,3 +3462,5 @@
 
 ## 2015-02-01 [3] state-management integrate
 
+## 2015-02-02 [1] typescript add
+
