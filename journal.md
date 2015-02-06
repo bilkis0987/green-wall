@@ -3490,3 +3490,5 @@
 
 ## 2015-02-06 [2] hooks improve
 
+## 2015-02-06 [3] caching add
+
