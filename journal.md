@@ -3496,3 +3496,5 @@
 
 ## 2015-02-07 [2] bugfix enhance
 
+## 2015-02-07 [3] caching implement
+
