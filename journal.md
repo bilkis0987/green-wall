@@ -3518,3 +3518,5 @@
 
 ## 2015-02-11 [1] bugfix refactor
 
+## 2015-02-11 [2] auth configure
+
