@@ -3540,3 +3540,5 @@
 
 ## 2015-02-14 [3] navigation fix
 
+## 2015-02-15 [1] nextjs refactor
+
