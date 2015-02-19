@@ -3568,3 +3568,5 @@
 
 ## 2015-02-19 [2] pagination update
 
+## 2015-02-19 [3] nextjs configure
+
