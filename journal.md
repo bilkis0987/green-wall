@@ -3570,3 +3570,5 @@
 
 ## 2015-02-19 [3] nextjs configure
 
+## 2015-02-20 [1] middleware setup
+
