@@ -3596,3 +3596,5 @@
 
 ## 2015-02-24 [1] pagination fix
 
+## 2015-02-24 [2] navigation optimize
+
