@@ -3602,3 +3602,5 @@
 
 ## 2015-02-25 [1] logging add
 
+## 2015-02-25 [2] auth configure
+
