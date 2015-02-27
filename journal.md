@@ -3616,3 +3616,5 @@
 
 ## 2015-02-27 [2] logging refactor
 
+## 2015-02-27 [3] search refactor
+
