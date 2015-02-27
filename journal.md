@@ -3614,3 +3614,5 @@
 
 ## 2015-02-27 [1] testing setup
 
+## 2015-02-27 [2] logging refactor
+
