@@ -3622,3 +3622,5 @@
 
 ## 2015-02-28 [2] caching add
 
+## 2015-02-28 [3] logging enhance
+
