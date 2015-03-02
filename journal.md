@@ -3634,3 +3634,5 @@
 
 ## 2015-03-02 [2] filter implement
 
+## 2015-03-02 [3] typescript integrate
+
