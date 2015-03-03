@@ -3640,3 +3640,5 @@
 
 ## 2015-03-03 [2] caching improve
 
+## 2015-03-03 [3] mysql setup
+
