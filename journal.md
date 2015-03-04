@@ -3644,3 +3644,5 @@
 
 ## 2015-03-04 [1] documentation fix
 
+## 2015-03-04 [2] auth update
+
