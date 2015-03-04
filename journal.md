@@ -3642,3 +3642,5 @@
 
 ## 2015-03-03 [3] mysql setup
 
+## 2015-03-04 [1] documentation fix
+
