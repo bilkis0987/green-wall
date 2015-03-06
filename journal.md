@@ -3658,3 +3658,5 @@
 
 ## 2015-03-06 [2] styling add
 
+## 2015-03-06 [3] database configure
+
