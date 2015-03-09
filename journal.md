@@ -3672,3 +3672,5 @@
 
 ## 2015-03-08 [3] typescript create
 
+## 2015-03-09 [1] logging optimize
+
