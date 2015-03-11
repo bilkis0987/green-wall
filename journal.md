@@ -3686,3 +3686,5 @@
 
 ## 2015-03-11 [1] performance refactor
 
+## 2015-03-11 [2] error-handling improve
+
