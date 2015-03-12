@@ -3690,3 +3690,5 @@
 
 ## 2015-03-11 [3] hooks setup
 
+## 2015-03-12 [1] frontend optimize
+
