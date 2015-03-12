@@ -3694,3 +3694,5 @@
 
 ## 2015-03-12 [2] form configure
 
+## 2015-03-12 [3] component fix
+
