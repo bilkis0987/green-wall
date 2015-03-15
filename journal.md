@@ -3710,3 +3710,5 @@
 
 ## 2015-03-15 [1] nextjs integrate
 
+## 2015-03-15 [2] navigation update
+
