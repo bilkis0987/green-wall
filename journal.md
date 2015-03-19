@@ -3732,3 +3732,5 @@
 
 ## 2015-03-18 [3] error-handling update
 
+## 2015-03-19 [1] caching refactor
+
