@@ -3770,3 +3770,5 @@
 
 ## 2015-03-25 [1] filter fix
 
+## 2015-03-25 [2] component integrate
+
