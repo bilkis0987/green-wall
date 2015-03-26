@@ -3778,3 +3778,5 @@
 
 ## 2015-03-26 [2] pagination improve
 
+## 2015-03-26 [3] logging integrate
+
