@@ -3812,3 +3812,5 @@
 
 ## 2015-04-01 [1] database fix
 
+## 2015-04-01 [2] frontend integrate
+
