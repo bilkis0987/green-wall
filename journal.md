@@ -3826,3 +3826,5 @@
 
 ## 2015-04-03 [2] filter fix
 
+## 2015-04-03 [3] styling refactor
+
