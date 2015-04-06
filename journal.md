@@ -3840,3 +3840,5 @@
 
 ## 2015-04-05 [3] caching refactor
 
+## 2015-04-06 [1] mysql enhance
+
