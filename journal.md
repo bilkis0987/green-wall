@@ -3854,3 +3854,5 @@
 
 ## 2015-04-08 [1] frontend improve
 
+## 2015-04-08 [2] logging optimize
+
