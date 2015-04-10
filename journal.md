@@ -3864,3 +3864,5 @@
 
 ## 2015-04-09 [3] frontend enhance
 
+## 2015-04-10 [1] logging configure
+
