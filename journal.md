@@ -3908,3 +3908,5 @@
 
 ## 2015-04-17 [1] deployment add
 
+## 2015-04-17 [2] typescript implement
+
