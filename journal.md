@@ -3910,3 +3910,5 @@
 
 ## 2015-04-17 [2] typescript implement
 
+## 2015-04-17 [3] frontend enhance
+
