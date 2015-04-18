@@ -3912,3 +3912,5 @@
 
 ## 2015-04-17 [3] frontend enhance
 
+## 2015-04-18 [1] typescript update
+
