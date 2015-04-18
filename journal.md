@@ -3914,3 +3914,5 @@
 
 ## 2015-04-18 [1] typescript update
 
+## 2015-04-18 [2] logging improve
+
