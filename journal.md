@@ -3922,3 +3922,5 @@
 
 ## 2015-04-19 [2] nextjs integrate
 
+## 2015-04-19 [3] search configure
+
