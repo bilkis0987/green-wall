@@ -3948,3 +3948,5 @@
 
 ## 2015-04-23 [3] nextjs implement
 
+## 2015-04-24 [1] middleware configure
+
