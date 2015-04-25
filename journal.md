@@ -3958,3 +3958,5 @@
 
 ## 2015-04-25 [2] navigation fix
 
+## 2015-04-25 [3] styling fix
+
