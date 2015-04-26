@@ -3962,3 +3962,5 @@
 
 ## 2015-04-26 [1] refactor create
 
+## 2015-04-26 [2] auth implement
+
