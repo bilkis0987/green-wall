@@ -3964,3 +3964,5 @@
 
 ## 2015-04-26 [2] auth implement
 
+## 2015-04-26 [3] navigation optimize
+
