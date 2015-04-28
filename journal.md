@@ -3976,3 +3976,5 @@
 
 ## 2015-04-28 [2] pagination optimize
 
+## 2015-04-28 [3] performance fix
+
