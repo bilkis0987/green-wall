@@ -3994,3 +3994,5 @@
 
 ## 2015-05-01 [2] api update
 
+## 2015-05-01 [3] caching integrate
+
