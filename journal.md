@@ -4012,3 +4012,5 @@
 
 ## 2015-05-04 [2] navigation update
 
+## 2015-05-04 [3] performance refactor
+
