@@ -4014,3 +4014,5 @@
 
 ## 2015-05-04 [3] performance refactor
 
+## 2015-05-05 [1] error-handling setup
+
