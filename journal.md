@@ -4030,3 +4030,5 @@
 
 ## 2015-05-07 [2] mysql update
 
+## 2015-05-07 [3] typescript add
+
