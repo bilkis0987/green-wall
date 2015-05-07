@@ -4026,3 +4026,5 @@
 
 ## 2015-05-06 [3] search update
 
+## 2015-05-07 [1] caching integrate
+
