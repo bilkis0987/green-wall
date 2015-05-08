@@ -4034,3 +4034,5 @@
 
 ## 2015-05-08 [1] logging update
 
+## 2015-05-08 [2] nextjs add
+
