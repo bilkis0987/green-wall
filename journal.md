@@ -4032,3 +4032,5 @@
 
 ## 2015-05-07 [3] typescript add
 
+## 2015-05-08 [1] logging update
+
