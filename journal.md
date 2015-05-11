@@ -4050,3 +4050,5 @@
 
 ## 2015-05-10 [3] state-management improve
 
+## 2015-05-11 [1] component update
+
