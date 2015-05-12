@@ -4056,3 +4056,5 @@
 
 ## 2015-05-11 [3] navigation update
 
+## 2015-05-12 [1] typescript implement
+
