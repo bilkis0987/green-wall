@@ -4062,3 +4062,5 @@
 
 ## 2015-05-12 [3] middleware setup
 
+## 2015-05-13 [1] nextjs add
+
