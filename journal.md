@@ -4082,3 +4082,5 @@
 
 ## 2015-05-16 [1] validation configure
 
+## 2015-05-16 [2] bugfix setup
+
