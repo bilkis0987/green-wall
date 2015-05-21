@@ -4114,3 +4114,5 @@
 
 ## 2015-05-21 [2] notification fix
 
+## 2015-05-21 [3] auth add
+
