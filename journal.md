@@ -4130,3 +4130,5 @@
 
 ## 2015-05-24 [1] layout configure
 
+## 2015-05-24 [2] logging fix
+
