@@ -4136,3 +4136,5 @@
 
 ## 2015-05-25 [1] logging implement
 
+## 2015-05-25 [2] state-management update
+
