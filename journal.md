@@ -4134,3 +4134,5 @@
 
 ## 2015-05-24 [3] profile refactor
 
+## 2015-05-25 [1] logging implement
+
