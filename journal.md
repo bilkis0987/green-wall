@@ -4140,3 +4140,5 @@
 
 ## 2015-05-25 [3] refactor setup
 
+## 2015-05-26 [1] deployment implement
+
