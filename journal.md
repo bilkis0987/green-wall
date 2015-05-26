@@ -4144,3 +4144,5 @@
 
 ## 2015-05-26 [2] dashboard update
 
+## 2015-05-26 [3] styling setup
+
