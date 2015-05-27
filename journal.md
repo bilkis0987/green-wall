@@ -4148,3 +4148,5 @@
 
 ## 2015-05-27 [1] performance add
 
+## 2015-05-27 [2] middleware integrate
+
