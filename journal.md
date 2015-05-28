@@ -4154,3 +4154,5 @@
 
 ## 2015-05-28 [1] error-handling fix
 
+## 2015-05-28 [2] documentation refactor
+
