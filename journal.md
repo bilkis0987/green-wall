@@ -4174,3 +4174,5 @@
 
 ## 2015-05-31 [2] state-management configure
 
+## 2015-05-31 [3] logging enhance
+
