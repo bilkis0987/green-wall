@@ -4176,3 +4176,5 @@
 
 ## 2015-05-31 [3] logging enhance
 
+## 2015-06-01 [1] nextjs fix
+
