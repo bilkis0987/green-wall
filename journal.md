@@ -4180,3 +4180,5 @@
 
 ## 2015-06-01 [2] layout fix
 
+## 2015-06-01 [3] typescript fix
+
