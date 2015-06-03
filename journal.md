@@ -4192,3 +4192,5 @@
 
 ## 2015-06-03 [2] search enhance
 
+## 2015-06-03 [3] component add
+
