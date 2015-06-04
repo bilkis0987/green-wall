@@ -4198,3 +4198,5 @@
 
 ## 2015-06-04 [2] hooks improve
 
+## 2015-06-04 [3] typescript fix
+
