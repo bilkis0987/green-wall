@@ -4200,3 +4200,5 @@
 
 ## 2015-06-04 [3] typescript fix
 
+## 2015-06-05 [1] caching improve
+
