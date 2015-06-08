@@ -4218,3 +4218,5 @@
 
 ## 2015-06-07 [3] routing fix
 
+## 2015-06-08 [1] component fix
+
