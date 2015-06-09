@@ -4226,3 +4226,5 @@
 
 ## 2015-06-09 [1] caching enhance
 
+## 2015-06-09 [2] state-management setup
+
