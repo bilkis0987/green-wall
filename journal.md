@@ -4224,3 +4224,5 @@
 
 ## 2015-06-08 [3] navigation integrate
 
+## 2015-06-09 [1] caching enhance
+
