@@ -4236,3 +4236,5 @@
 
 ## 2015-06-10 [3] refactor update
 
+## 2015-06-11 [1] bugfix optimize
+
