@@ -4240,3 +4240,5 @@
 
 ## 2015-06-11 [2] upload setup
 
+## 2015-06-11 [3] state-management improve
+
