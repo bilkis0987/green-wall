@@ -4242,3 +4242,5 @@
 
 ## 2015-06-11 [3] state-management improve
 
+## 2015-06-12 [1] navigation configure
+
