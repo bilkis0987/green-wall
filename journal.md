@@ -4252,3 +4252,5 @@
 
 ## 2015-06-13 [2] navigation create
 
+## 2015-06-13 [3] nextjs implement
+
