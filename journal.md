@@ -4254,3 +4254,5 @@
 
 ## 2015-06-13 [3] nextjs implement
 
+## 2015-06-14 [1] deployment fix
+
