@@ -4260,3 +4260,5 @@
 
 ## 2015-06-14 [3] nextjs update
 
+## 2015-06-15 [1] testing add
+
