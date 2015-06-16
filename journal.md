@@ -4266,3 +4266,5 @@
 
 ## 2015-06-15 [3] validation improve
 
+## 2015-06-16 [1] logging setup
+
