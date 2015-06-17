@@ -4274,3 +4274,5 @@
 
 ## 2015-06-17 [1] layout fix
 
+## 2015-06-17 [2] middleware add
+
