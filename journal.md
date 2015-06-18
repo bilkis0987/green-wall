@@ -4280,3 +4280,5 @@
 
 ## 2015-06-18 [1] hooks enhance
 
+## 2015-06-18 [2] typescript enhance
+
