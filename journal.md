@@ -4278,3 +4278,5 @@
 
 ## 2015-06-17 [3] error-handling improve
 
+## 2015-06-18 [1] hooks enhance
+
