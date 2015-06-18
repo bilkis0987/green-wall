@@ -4282,3 +4282,5 @@
 
 ## 2015-06-18 [2] typescript enhance
 
+## 2015-06-18 [3] nextjs improve
+
