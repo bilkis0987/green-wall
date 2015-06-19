@@ -4284,3 +4284,5 @@
 
 ## 2015-06-18 [3] nextjs improve
 
+## 2015-06-19 [1] database setup
+
