@@ -4288,3 +4288,5 @@
 
 ## 2015-06-19 [2] mysql enhance
 
+## 2015-06-19 [3] bugfix refactor
+
