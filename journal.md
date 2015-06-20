@@ -4290,3 +4290,5 @@
 
 ## 2015-06-19 [3] bugfix refactor
 
+## 2015-06-20 [1] navigation fix
+
