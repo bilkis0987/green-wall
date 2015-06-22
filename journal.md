@@ -4302,3 +4302,5 @@
 
 ## 2015-06-21 [3] validation update
 
+## 2015-06-22 [1] bugfix integrate
+
