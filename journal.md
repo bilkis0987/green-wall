@@ -4308,3 +4308,5 @@
 
 ## 2015-06-22 [3] dashboard implement
 
+## 2015-06-23 [1] performance add
+
