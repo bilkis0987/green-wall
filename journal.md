@@ -4316,3 +4316,5 @@
 
 ## 2015-06-24 [1] performance improve
 
+## 2015-06-24 [2] middleware enhance
+
