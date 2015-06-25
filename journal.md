@@ -4320,3 +4320,5 @@
 
 ## 2015-06-24 [3] form enhance
 
+## 2015-06-25 [1] dashboard integrate
+
