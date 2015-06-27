@@ -4334,3 +4334,5 @@
 
 ## 2015-06-27 [1] caching optimize
 
+## 2015-06-27 [2] typescript optimize
+
