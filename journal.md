@@ -4338,3 +4338,5 @@
 
 ## 2015-06-27 [3] form fix
 
+## 2015-06-28 [1] typescript optimize
+
