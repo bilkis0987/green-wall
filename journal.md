@@ -4340,3 +4340,5 @@
 
 ## 2015-06-28 [1] typescript optimize
 
+## 2015-06-28 [2] component create
+
