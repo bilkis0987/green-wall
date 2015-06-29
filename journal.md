@@ -4346,3 +4346,5 @@
 
 ## 2015-06-29 [1] search fix
 
+## 2015-06-29 [2] caching improve
+
