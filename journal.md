@@ -4344,3 +4344,5 @@
 
 ## 2015-06-28 [3] nextjs refactor
 
+## 2015-06-29 [1] search fix
+
