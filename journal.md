@@ -4360,3 +4360,5 @@
 
 ## 2015-07-01 [2] notification enhance
 
+## 2015-07-01 [3] component enhance
+
