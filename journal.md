@@ -4378,3 +4378,5 @@
 
 ## 2015-07-04 [2] bugfix implement
 
+## 2015-07-04 [3] nextjs fix
+
