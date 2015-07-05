@@ -4380,3 +4380,5 @@
 
 ## 2015-07-04 [3] nextjs fix
 
+## 2015-07-05 [1] state-management update
+
