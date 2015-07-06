@@ -4390,3 +4390,5 @@
 
 ## 2015-07-06 [2] validation enhance
 
+## 2015-07-06 [3] typescript optimize
+
