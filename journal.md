@@ -4386,3 +4386,5 @@
 
 ## 2015-07-05 [3] security configure
 
+## 2015-07-06 [1] refactor configure
+
