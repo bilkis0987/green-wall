@@ -4392,3 +4392,5 @@
 
 ## 2015-07-06 [3] typescript optimize
 
+## 2015-07-07 [1] hooks fix
+
