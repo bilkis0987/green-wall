@@ -4394,3 +4394,5 @@
 
 ## 2015-07-07 [1] hooks fix
 
+## 2015-07-07 [2] filter implement
+
