@@ -4402,3 +4402,5 @@
 
 ## 2015-07-08 [2] performance enhance
 
+## 2015-07-08 [3] performance fix
+
