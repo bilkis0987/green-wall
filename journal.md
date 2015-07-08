@@ -4398,3 +4398,5 @@
 
 ## 2015-07-07 [3] notification improve
 
+## 2015-07-08 [1] bugfix update
+
