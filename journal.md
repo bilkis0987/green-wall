@@ -4404,3 +4404,5 @@
 
 ## 2015-07-08 [3] performance fix
 
+## 2015-07-09 [1] frontend configure
+
