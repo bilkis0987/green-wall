@@ -4406,3 +4406,5 @@
 
 ## 2015-07-09 [1] frontend configure
 
+## 2015-07-09 [2] state-management implement
+
