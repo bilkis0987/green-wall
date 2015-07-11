@@ -4418,3 +4418,5 @@
 
 ## 2015-07-11 [1] styling fix
 
+## 2015-07-11 [2] logging enhance
+
