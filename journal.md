@@ -4422,3 +4422,5 @@
 
 ## 2015-07-11 [3] express integrate
 
+## 2015-07-12 [1] middleware add
+
