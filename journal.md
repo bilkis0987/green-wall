@@ -4426,3 +4426,5 @@
 
 ## 2015-07-12 [2] nextjs configure
 
+## 2015-07-12 [3] frontend optimize
+
