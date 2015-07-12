@@ -4424,3 +4424,5 @@
 
 ## 2015-07-12 [1] middleware add
 
+## 2015-07-12 [2] nextjs configure
+
