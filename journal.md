@@ -4428,3 +4428,5 @@
 
 ## 2015-07-12 [3] frontend optimize
 
+## 2015-07-13 [1] pagination integrate
+
