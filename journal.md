@@ -4440,3 +4440,5 @@
 
 ## 2015-07-14 [3] validation integrate
 
+## 2015-07-15 [1] styling enhance
+
