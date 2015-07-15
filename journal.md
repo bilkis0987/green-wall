@@ -4442,3 +4442,5 @@
 
 ## 2015-07-15 [1] styling enhance
 
+## 2015-07-15 [2] component update
+
