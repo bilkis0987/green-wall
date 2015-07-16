@@ -4448,3 +4448,5 @@
 
 ## 2015-07-16 [1] notification refactor
 
+## 2015-07-16 [2] auth integrate
+
