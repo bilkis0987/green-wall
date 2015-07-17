@@ -4454,3 +4454,5 @@
 
 ## 2015-07-17 [1] nextjs add
 
+## 2015-07-17 [2] search optimize
+
