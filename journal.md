@@ -4468,3 +4468,5 @@
 
 ## 2015-07-19 [2] express fix
 
+## 2015-07-19 [3] caching optimize
+
