@@ -4476,3 +4476,5 @@
 
 ## 2015-07-20 [3] styling add
 
+## 2015-07-21 [1] middleware configure
+
