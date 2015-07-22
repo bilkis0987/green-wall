@@ -4482,3 +4482,5 @@
 
 ## 2015-07-21 [3] styling fix
 
+## 2015-07-22 [1] navigation refactor
+
