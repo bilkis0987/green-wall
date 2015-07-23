@@ -4492,3 +4492,5 @@
 
 ## 2015-07-23 [2] component refactor
 
+## 2015-07-23 [3] dashboard update
+
