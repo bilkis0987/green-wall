@@ -4490,3 +4490,5 @@
 
 ## 2015-07-23 [1] performance improve
 
+## 2015-07-23 [2] component refactor
+
