@@ -4498,3 +4498,5 @@
 
 ## 2015-07-24 [2] navigation enhance
 
+## 2015-07-24 [3] nextjs update
+
