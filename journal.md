@@ -4500,3 +4500,5 @@
 
 ## 2015-07-24 [3] nextjs update
 
+## 2015-07-25 [1] testing setup
+
