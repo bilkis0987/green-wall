@@ -4502,3 +4502,5 @@
 
 ## 2015-07-25 [1] testing setup
 
+## 2015-07-25 [2] layout configure
+
