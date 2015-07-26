@@ -4510,3 +4510,5 @@
 
 ## 2015-07-26 [2] navigation update
 
+## 2015-07-26 [3] nextjs add
+
