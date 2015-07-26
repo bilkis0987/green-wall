@@ -4506,3 +4506,5 @@
 
 ## 2015-07-25 [3] routing create
 
+## 2015-07-26 [1] middleware implement
+
