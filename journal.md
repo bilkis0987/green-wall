@@ -4512,3 +4512,5 @@
 
 ## 2015-07-26 [3] nextjs add
 
+## 2015-07-27 [1] layout refactor
+
