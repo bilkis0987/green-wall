@@ -4520,3 +4520,5 @@
 
 ## 2015-07-28 [1] hooks refactor
 
+## 2015-07-28 [2] caching optimize
+
