@@ -4542,3 +4542,5 @@
 
 ## 2015-07-31 [3] frontend enhance
 
+## 2015-08-01 [1] documentation implement
+
