@@ -4552,3 +4552,5 @@
 
 ## 2015-08-02 [2] middleware implement
 
+## 2015-08-02 [3] layout configure
+
