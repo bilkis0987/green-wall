@@ -4556,3 +4556,5 @@
 
 ## 2015-08-03 [1] validation update
 
+## 2015-08-03 [2] logging add
+
