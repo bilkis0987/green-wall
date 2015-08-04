@@ -4560,3 +4560,5 @@
 
 ## 2015-08-03 [3] pagination optimize
 
+## 2015-08-04 [1] documentation enhance
+
