@@ -4580,3 +4580,5 @@
 
 ## 2015-08-07 [1] error-handling add
 
+## 2015-08-07 [2] logging setup
+
