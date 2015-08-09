@@ -4590,3 +4590,5 @@
 
 ## 2015-08-08 [3] nextjs integrate
 
+## 2015-08-09 [1] dashboard fix
+
