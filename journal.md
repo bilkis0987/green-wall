@@ -4596,3 +4596,5 @@
 
 ## 2015-08-09 [3] refactor refactor
 
+## 2015-08-10 [1] filter optimize
+
