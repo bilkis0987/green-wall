@@ -4600,3 +4600,5 @@
 
 ## 2015-08-10 [2] testing improve
 
+## 2015-08-10 [3] dashboard integrate
+
