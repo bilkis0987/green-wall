@@ -4606,3 +4606,5 @@
 
 ## 2015-08-11 [2] security fix
 
+## 2015-08-11 [3] logging enhance
+
