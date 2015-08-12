@@ -4608,3 +4608,5 @@
 
 ## 2015-08-11 [3] logging enhance
 
+## 2015-08-12 [1] state-management create
+
