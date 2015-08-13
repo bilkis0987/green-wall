@@ -4618,3 +4618,5 @@
 
 ## 2015-08-13 [2] nextjs enhance
 
+## 2015-08-13 [3] performance implement
+
