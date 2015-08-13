@@ -4616,3 +4616,5 @@
 
 ## 2015-08-13 [1] pagination implement
 
+## 2015-08-13 [2] nextjs enhance
+
