@@ -4624,3 +4624,5 @@
 
 ## 2015-08-14 [2] database update
 
+## 2015-08-14 [3] typescript add
+
