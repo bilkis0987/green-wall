@@ -4620,3 +4620,5 @@
 
 ## 2015-08-13 [3] performance implement
 
+## 2015-08-14 [1] bugfix configure
+
