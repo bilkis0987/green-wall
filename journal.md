@@ -4634,3 +4634,5 @@
 
 ## 2015-08-16 [1] frontend update
 
+## 2015-08-16 [2] notification implement
+
