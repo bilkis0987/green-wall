@@ -4632,3 +4632,5 @@
 
 ## 2015-08-15 [3] deployment enhance
 
+## 2015-08-16 [1] frontend update
+
