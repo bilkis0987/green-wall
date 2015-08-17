@@ -4638,3 +4638,5 @@
 
 ## 2015-08-16 [3] backend fix
 
+## 2015-08-17 [1] filter refactor
+
