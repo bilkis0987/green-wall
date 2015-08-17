@@ -4640,3 +4640,5 @@
 
 ## 2015-08-17 [1] filter refactor
 
+## 2015-08-17 [2] layout integrate
+
