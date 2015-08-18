@@ -4648,3 +4648,5 @@
 
 ## 2015-08-18 [2] component setup
 
+## 2015-08-18 [3] component integrate
+
