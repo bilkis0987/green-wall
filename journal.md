@@ -4646,3 +4646,5 @@
 
 ## 2015-08-18 [1] notification fix
 
+## 2015-08-18 [2] component setup
+
