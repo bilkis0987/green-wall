@@ -4656,3 +4656,5 @@
 
 ## 2015-08-19 [3] api integrate
 
+## 2015-08-20 [1] refactor implement
+
