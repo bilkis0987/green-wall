@@ -4666,3 +4666,5 @@
 
 ## 2015-08-21 [2] refactor refactor
 
+## 2015-08-21 [3] validation fix
+
