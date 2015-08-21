@@ -4662,3 +4662,5 @@
 
 ## 2015-08-20 [3] pagination integrate
 
+## 2015-08-21 [1] layout integrate
+
