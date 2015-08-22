@@ -4672,3 +4672,5 @@
 
 ## 2015-08-22 [2] navigation integrate
 
+## 2015-08-22 [3] dashboard enhance
+
