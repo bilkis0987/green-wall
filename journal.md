@@ -4680,3 +4680,5 @@
 
 ## 2015-08-23 [3] notification setup
 
+## 2015-08-24 [1] frontend integrate
+
