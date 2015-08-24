@@ -4684,3 +4684,5 @@
 
 ## 2015-08-24 [2] database create
 
+## 2015-08-24 [3] mysql setup
+
