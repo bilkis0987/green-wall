@@ -4690,3 +4690,5 @@
 
 ## 2015-08-25 [2] testing refactor
 
+## 2015-08-25 [3] frontend optimize
+
