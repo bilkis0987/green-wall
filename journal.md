@@ -4696,3 +4696,5 @@
 
 ## 2015-08-26 [2] hooks setup
 
+## 2015-08-26 [3] frontend refactor
+
