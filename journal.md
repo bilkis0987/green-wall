@@ -4692,3 +4692,5 @@
 
 ## 2015-08-25 [3] frontend optimize
 
+## 2015-08-26 [1] refactor optimize
+
