@@ -4712,3 +4712,5 @@
 
 ## 2015-08-29 [1] mysql optimize
 
+## 2015-08-29 [2] deployment fix
+
