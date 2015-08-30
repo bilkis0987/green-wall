@@ -4716,3 +4716,5 @@
 
 ## 2015-08-29 [3] routing implement
 
+## 2015-08-30 [1] logging implement
+
