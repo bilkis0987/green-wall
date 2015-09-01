@@ -4730,3 +4730,5 @@
 
 ## 2015-09-01 [1] middleware fix
 
+## 2015-09-01 [2] refactor integrate
+
