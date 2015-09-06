@@ -4762,3 +4762,5 @@
 
 ## 2015-09-06 [2] search improve
 
+## 2015-09-06 [3] frontend enhance
+
