@@ -4766,3 +4766,5 @@
 
 ## 2015-09-07 [1] backend implement
 
+## 2015-09-07 [2] typescript update
+
