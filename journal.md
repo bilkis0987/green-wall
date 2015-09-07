@@ -4768,3 +4768,5 @@
 
 ## 2015-09-07 [2] typescript update
 
+## 2015-09-07 [3] bugfix improve
+
