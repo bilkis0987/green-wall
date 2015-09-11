@@ -4788,3 +4788,5 @@
 
 ## 2015-09-10 [3] pagination enhance
 
+## 2015-09-11 [1] documentation refactor
+
