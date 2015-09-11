@@ -4790,3 +4790,5 @@
 
 ## 2015-09-11 [1] documentation refactor
 
+## 2015-09-11 [2] error-handling enhance
+
