@@ -4804,3 +4804,5 @@
 
 ## 2015-09-13 [2] typescript add
 
+## 2015-09-13 [3] filter optimize
+
