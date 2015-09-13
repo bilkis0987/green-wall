@@ -4802,3 +4802,5 @@
 
 ## 2015-09-13 [1] performance implement
 
+## 2015-09-13 [2] typescript add
+
