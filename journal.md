@@ -4806,3 +4806,5 @@
 
 ## 2015-09-13 [3] filter optimize
 
+## 2015-09-14 [1] typescript setup
+
