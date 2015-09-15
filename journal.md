@@ -4812,3 +4812,5 @@
 
 ## 2015-09-14 [3] api enhance
 
+## 2015-09-15 [1] hooks configure
+
