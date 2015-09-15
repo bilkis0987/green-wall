@@ -4816,3 +4816,5 @@
 
 ## 2015-09-15 [2] routing improve
 
+## 2015-09-15 [3] typescript fix
+
