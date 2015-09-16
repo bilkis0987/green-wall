@@ -4822,3 +4822,5 @@
 
 ## 2015-09-16 [2] api optimize
 
+## 2015-09-16 [3] frontend fix
+
