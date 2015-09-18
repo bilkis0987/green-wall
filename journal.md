@@ -4832,3 +4832,5 @@
 
 ## 2015-09-18 [1] notification enhance
 
+## 2015-09-18 [2] nextjs configure
+
