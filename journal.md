@@ -4846,3 +4846,5 @@
 
 ## 2015-09-20 [2] hooks configure
 
+## 2015-09-20 [3] pagination fix
+
