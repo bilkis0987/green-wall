@@ -4842,3 +4842,5 @@
 
 ## 2015-09-19 [3] refactor enhance
 
+## 2015-09-20 [1] filter configure
+
