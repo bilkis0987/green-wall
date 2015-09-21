@@ -4850,3 +4850,5 @@
 
 ## 2015-09-21 [1] state-management implement
 
+## 2015-09-21 [2] logging implement
+
