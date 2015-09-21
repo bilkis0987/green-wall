@@ -4848,3 +4848,5 @@
 
 ## 2015-09-20 [3] pagination fix
 
+## 2015-09-21 [1] state-management implement
+
