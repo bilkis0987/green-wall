@@ -4856,3 +4856,5 @@
 
 ## 2015-09-22 [1] performance enhance
 
+## 2015-09-22 [2] typescript setup
+
