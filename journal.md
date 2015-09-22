@@ -4858,3 +4858,5 @@
 
 ## 2015-09-22 [2] typescript setup
 
+## 2015-09-22 [3] filter refactor
+
