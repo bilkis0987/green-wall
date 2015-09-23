@@ -4864,3 +4864,5 @@
 
 ## 2015-09-23 [2] mysql setup
 
+## 2015-09-23 [3] deployment refactor
+
