@@ -4870,3 +4870,5 @@
 
 ## 2015-09-24 [2] validation fix
 
+## 2015-09-24 [3] filter integrate
+
