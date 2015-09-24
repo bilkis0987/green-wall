@@ -4866,3 +4866,5 @@
 
 ## 2015-09-23 [3] deployment refactor
 
+## 2015-09-24 [1] auth fix
+
