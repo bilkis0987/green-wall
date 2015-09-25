@@ -4872,3 +4872,5 @@
 
 ## 2015-09-24 [3] filter integrate
 
+## 2015-09-25 [1] bugfix enhance
+
