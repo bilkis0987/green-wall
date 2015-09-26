@@ -4878,3 +4878,5 @@
 
 ## 2015-09-25 [3] security configure
 
+## 2015-09-26 [1] frontend implement
+
