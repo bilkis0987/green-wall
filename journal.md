@@ -4888,3 +4888,5 @@
 
 ## 2015-09-27 [2] testing setup
 
+## 2015-09-27 [3] component enhance
+
