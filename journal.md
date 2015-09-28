@@ -4894,3 +4894,5 @@
 
 ## 2015-09-28 [2] nextjs fix
 
+## 2015-09-28 [3] pagination update
+
