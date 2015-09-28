@@ -4890,3 +4890,5 @@
 
 ## 2015-09-27 [3] component enhance
 
+## 2015-09-28 [1] typescript enhance
+
