@@ -4906,3 +4906,5 @@
 
 ## 2015-09-30 [2] routing setup
 
+## 2015-09-30 [3] component optimize
+
