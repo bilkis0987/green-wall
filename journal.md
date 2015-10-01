@@ -4908,3 +4908,5 @@
 
 ## 2015-09-30 [3] component optimize
 
+## 2015-10-01 [1] nextjs optimize
+
