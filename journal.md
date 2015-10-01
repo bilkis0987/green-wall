@@ -4912,3 +4912,5 @@
 
 ## 2015-10-01 [2] bugfix improve
 
+## 2015-10-01 [3] filter setup
+
