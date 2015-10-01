@@ -4910,3 +4910,5 @@
 
 ## 2015-10-01 [1] nextjs optimize
 
+## 2015-10-01 [2] bugfix improve
+
