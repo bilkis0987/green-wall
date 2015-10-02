@@ -4914,3 +4914,5 @@
 
 ## 2015-10-01 [3] filter setup
 
+## 2015-10-02 [1] state-management optimize
+
