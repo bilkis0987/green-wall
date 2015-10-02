@@ -4916,3 +4916,5 @@
 
 ## 2015-10-02 [1] state-management optimize
 
+## 2015-10-02 [2] middleware fix
+
