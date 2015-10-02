@@ -4918,3 +4918,5 @@
 
 ## 2015-10-02 [2] middleware fix
 
+## 2015-10-02 [3] auth optimize
+
