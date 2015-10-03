@@ -4924,3 +4924,5 @@
 
 ## 2015-10-03 [2] styling setup
 
+## 2015-10-03 [3] search update
+
