@@ -4928,3 +4928,5 @@
 
 ## 2015-10-04 [1] layout refactor
 
+## 2015-10-04 [2] performance update
+
