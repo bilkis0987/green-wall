@@ -4926,3 +4926,5 @@
 
 ## 2015-10-03 [3] search update
 
+## 2015-10-04 [1] layout refactor
+
