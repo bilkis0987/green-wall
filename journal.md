@@ -4946,3 +4946,5 @@
 
 ## 2015-10-07 [1] frontend configure
 
+## 2015-10-07 [2] refactor enhance
+
