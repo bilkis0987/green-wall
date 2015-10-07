@@ -4944,3 +4944,5 @@
 
 ## 2015-10-06 [3] hooks refactor
 
+## 2015-10-07 [1] frontend configure
+
