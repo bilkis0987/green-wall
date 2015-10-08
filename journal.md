@@ -4954,3 +4954,5 @@
 
 ## 2015-10-08 [2] pagination improve
 
+## 2015-10-08 [3] typescript improve
+
