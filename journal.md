@@ -4962,3 +4962,5 @@
 
 ## 2015-10-09 [3] form optimize
 
+## 2015-10-10 [1] nextjs configure
+
