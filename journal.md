@@ -4964,3 +4964,5 @@
 
 ## 2015-10-10 [1] nextjs configure
 
+## 2015-10-10 [2] search setup
+
