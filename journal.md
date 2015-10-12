@@ -4978,3 +4978,5 @@
 
 ## 2015-10-12 [2] mysql implement
 
+## 2015-10-12 [3] logging integrate
+
