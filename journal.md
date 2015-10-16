@@ -5000,3 +5000,5 @@
 
 ## 2015-10-16 [1] styling setup
 
+## 2015-10-16 [2] component fix
+
