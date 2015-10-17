@@ -5004,3 +5004,5 @@
 
 ## 2015-10-16 [3] security implement
 
+## 2015-10-17 [1] component integrate
+
