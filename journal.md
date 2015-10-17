@@ -5008,3 +5008,5 @@
 
 ## 2015-10-17 [2] error-handling configure
 
+## 2015-10-17 [3] component integrate
+
