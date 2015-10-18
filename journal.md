@@ -5010,3 +5010,5 @@
 
 ## 2015-10-17 [3] component integrate
 
+## 2015-10-18 [1] mysql configure
+
