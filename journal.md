@@ -5020,3 +5020,5 @@
 
 ## 2015-10-19 [2] error-handling implement
 
+## 2015-10-19 [3] state-management refactor
+
