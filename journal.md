@@ -5016,3 +5016,5 @@
 
 ## 2015-10-18 [3] notification integrate
 
+## 2015-10-19 [1] logging fix
+
