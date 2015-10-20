@@ -5024,3 +5024,5 @@
 
 ## 2015-10-20 [1] performance update
 
+## 2015-10-20 [2] middleware implement
+
