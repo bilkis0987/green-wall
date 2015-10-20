@@ -5022,3 +5022,5 @@
 
 ## 2015-10-19 [3] state-management refactor
 
+## 2015-10-20 [1] performance update
+
