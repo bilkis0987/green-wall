@@ -5032,3 +5032,5 @@
 
 ## 2015-10-21 [2] filter refactor
 
+## 2015-10-21 [3] pagination update
+
