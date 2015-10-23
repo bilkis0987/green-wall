@@ -5042,3 +5042,5 @@
 
 ## 2015-10-23 [1] styling improve
 
+## 2015-10-23 [2] dashboard implement
+
