@@ -5050,3 +5050,5 @@
 
 ## 2015-10-24 [2] styling integrate
 
+## 2015-10-24 [3] hooks fix
+
