@@ -5054,3 +5054,5 @@
 
 ## 2015-10-25 [1] nextjs improve
 
+## 2015-10-25 [2] auth refactor
+
