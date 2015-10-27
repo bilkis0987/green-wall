@@ -5068,3 +5068,5 @@
 
 ## 2015-10-27 [2] documentation implement
 
+## 2015-10-27 [3] middleware optimize
+
