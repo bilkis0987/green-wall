@@ -5074,3 +5074,5 @@
 
 ## 2015-10-28 [2] bugfix setup
 
+## 2015-10-28 [3] pagination optimize
+
