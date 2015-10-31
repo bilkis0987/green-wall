@@ -5092,3 +5092,5 @@
 
 ## 2015-10-31 [2] state-management add
 
+## 2015-10-31 [3] refactor enhance
+
