@@ -5090,3 +5090,5 @@
 
 ## 2015-10-31 [1] navigation refactor
 
+## 2015-10-31 [2] state-management add
+
