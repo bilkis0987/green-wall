@@ -5106,3 +5106,5 @@
 
 ## 2015-11-02 [3] testing improve
 
+## 2015-11-03 [1] nextjs update
+
