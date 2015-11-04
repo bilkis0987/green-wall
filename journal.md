@@ -5116,3 +5116,5 @@
 
 ## 2015-11-04 [2] component enhance
 
+## 2015-11-04 [3] pagination refactor
+
