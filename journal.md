@@ -5114,3 +5114,5 @@
 
 ## 2015-11-04 [1] hooks integrate
 
+## 2015-11-04 [2] component enhance
+
