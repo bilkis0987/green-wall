@@ -5122,3 +5122,5 @@
 
 ## 2015-11-05 [2] caching add
 
+## 2015-11-05 [3] middleware configure
+
