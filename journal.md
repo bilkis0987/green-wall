@@ -5134,3 +5134,5 @@
 
 ## 2015-11-07 [2] pagination setup
 
+## 2015-11-07 [3] logging implement
+
