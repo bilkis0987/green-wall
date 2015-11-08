@@ -5136,3 +5136,5 @@
 
 ## 2015-11-07 [3] logging implement
 
+## 2015-11-08 [1] documentation configure
+
