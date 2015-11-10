@@ -5150,3 +5150,5 @@
 
 ## 2015-11-10 [1] typescript update
 
+## 2015-11-10 [2] nextjs fix
+
