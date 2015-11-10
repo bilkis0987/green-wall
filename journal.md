@@ -5148,3 +5148,5 @@
 
 ## 2015-11-09 [3] state-management setup
 
+## 2015-11-10 [1] typescript update
+
