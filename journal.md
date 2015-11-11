@@ -5156,3 +5156,5 @@
 
 ## 2015-11-11 [1] testing create
 
+## 2015-11-11 [2] logging integrate
+
