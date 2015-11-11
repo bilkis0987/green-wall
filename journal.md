@@ -5158,3 +5158,5 @@
 
 ## 2015-11-11 [2] logging integrate
 
+## 2015-11-11 [3] bugfix update
+
