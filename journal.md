@@ -5164,3 +5164,5 @@
 
 ## 2015-11-12 [2] routing refactor
 
+## 2015-11-12 [3] typescript enhance
+
