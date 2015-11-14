@@ -5176,3 +5176,5 @@
 
 ## 2015-11-14 [2] state-management integrate
 
+## 2015-11-14 [3] deployment fix
+
