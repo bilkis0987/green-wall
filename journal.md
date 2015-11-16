@@ -5184,3 +5184,5 @@
 
 ## 2015-11-15 [3] bugfix implement
 
+## 2015-11-16 [1] logging integrate
+
