@@ -5192,3 +5192,5 @@
 
 ## 2015-11-17 [1] notification fix
 
+## 2015-11-17 [2] component integrate
+
