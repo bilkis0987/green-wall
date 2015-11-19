@@ -5206,3 +5206,5 @@
 
 ## 2015-11-19 [2] filter integrate
 
+## 2015-11-19 [3] nextjs fix
+
