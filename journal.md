@@ -5208,3 +5208,5 @@
 
 ## 2015-11-19 [3] nextjs fix
 
+## 2015-11-20 [1] navigation setup
+
