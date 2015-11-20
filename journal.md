@@ -5210,3 +5210,5 @@
 
 ## 2015-11-20 [1] navigation setup
 
+## 2015-11-20 [2] deployment optimize
+
