@@ -5226,3 +5226,5 @@
 
 ## 2015-11-22 [3] refactor create
 
+## 2015-11-23 [1] bugfix configure
+
