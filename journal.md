@@ -5228,3 +5228,5 @@
 
 ## 2015-11-23 [1] bugfix configure
 
+## 2015-11-23 [2] caching fix
+
