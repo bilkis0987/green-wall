@@ -5238,3 +5238,5 @@
 
 ## 2015-11-24 [3] styling setup
 
+## 2015-11-25 [1] dashboard enhance
+
