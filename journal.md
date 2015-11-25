@@ -5240,3 +5240,5 @@
 
 ## 2015-11-25 [1] dashboard enhance
 
+## 2015-11-25 [2] component fix
+
