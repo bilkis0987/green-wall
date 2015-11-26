@@ -5248,3 +5248,5 @@
 
 ## 2015-11-26 [2] layout refactor
 
+## 2015-11-26 [3] caching optimize
+
