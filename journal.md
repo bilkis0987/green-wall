@@ -5252,3 +5252,5 @@
 
 ## 2015-11-27 [1] layout improve
 
+## 2015-11-27 [2] component setup
+
