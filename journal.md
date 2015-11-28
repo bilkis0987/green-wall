@@ -5260,3 +5260,5 @@
 
 ## 2015-11-28 [2] bugfix implement
 
+## 2015-11-28 [3] navigation update
+
