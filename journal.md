@@ -5266,3 +5266,5 @@
 
 ## 2015-11-29 [2] database refactor
 
+## 2015-11-29 [3] caching integrate
+
