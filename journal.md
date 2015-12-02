@@ -5284,3 +5284,5 @@
 
 ## 2015-12-02 [2] testing integrate
 
+## 2015-12-02 [3] auth enhance
+
