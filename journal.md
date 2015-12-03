@@ -5286,3 +5286,5 @@
 
 ## 2015-12-02 [3] auth enhance
 
+## 2015-12-03 [1] frontend setup
+
