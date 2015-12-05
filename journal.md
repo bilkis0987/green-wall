@@ -5302,3 +5302,5 @@
 
 ## 2015-12-05 [2] deployment configure
 
+## 2015-12-05 [3] hooks configure
+
