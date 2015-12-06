@@ -5304,3 +5304,5 @@
 
 ## 2015-12-05 [3] hooks configure
 
+## 2015-12-06 [1] caching fix
+
