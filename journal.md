@@ -5310,3 +5310,5 @@
 
 ## 2015-12-06 [3] mysql implement
 
+## 2015-12-07 [1] typescript optimize
+
