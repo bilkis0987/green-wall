@@ -5312,3 +5312,5 @@
 
 ## 2015-12-07 [1] typescript optimize
 
+## 2015-12-07 [2] nextjs enhance
+
