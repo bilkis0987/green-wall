@@ -5320,3 +5320,5 @@
 
 ## 2015-12-08 [2] validation refactor
 
+## 2015-12-08 [3] logging integrate
+
