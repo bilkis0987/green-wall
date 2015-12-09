@@ -5322,3 +5322,5 @@
 
 ## 2015-12-08 [3] logging integrate
 
+## 2015-12-09 [1] component implement
+
