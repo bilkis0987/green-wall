@@ -5328,3 +5328,5 @@
 
 ## 2015-12-09 [3] security fix
 
+## 2015-12-10 [1] search integrate
+
