@@ -5332,3 +5332,5 @@
 
 ## 2015-12-10 [2] dashboard improve
 
+## 2015-12-10 [3] middleware optimize
+
