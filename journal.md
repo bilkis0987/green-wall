@@ -5336,3 +5336,5 @@
 
 ## 2015-12-11 [1] dashboard enhance
 
+## 2015-12-11 [2] frontend add
+
