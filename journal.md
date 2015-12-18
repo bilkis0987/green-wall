@@ -5380,3 +5380,5 @@
 
 ## 2015-12-18 [2] auth refactor
 
+## 2015-12-18 [3] state-management setup
+
