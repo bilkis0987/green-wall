@@ -5378,3 +5378,5 @@
 
 ## 2015-12-18 [1] search implement
 
+## 2015-12-18 [2] auth refactor
+
