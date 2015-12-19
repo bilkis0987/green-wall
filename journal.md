@@ -5382,3 +5382,5 @@
 
 ## 2015-12-18 [3] state-management setup
 
+## 2015-12-19 [1] mysql improve
+
