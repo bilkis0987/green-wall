@@ -5386,3 +5386,5 @@
 
 ## 2015-12-19 [2] search setup
 
+## 2015-12-19 [3] mysql optimize
+
