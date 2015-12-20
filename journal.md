@@ -5392,3 +5392,5 @@
 
 ## 2015-12-20 [2] caching integrate
 
+## 2015-12-20 [3] hooks update
+
