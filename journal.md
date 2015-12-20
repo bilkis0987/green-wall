@@ -5390,3 +5390,5 @@
 
 ## 2015-12-20 [1] hooks enhance
 
+## 2015-12-20 [2] caching integrate
+
