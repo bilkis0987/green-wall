@@ -5408,3 +5408,5 @@
 
 ## 2015-12-23 [1] filter setup
 
+## 2015-12-23 [2] refactor implement
+
