@@ -5422,3 +5422,5 @@
 
 ## 2015-12-25 [2] dashboard add
 
+## 2015-12-25 [3] caching implement
+
