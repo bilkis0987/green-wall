@@ -5432,3 +5432,5 @@
 
 ## 2015-12-27 [1] error-handling integrate
 
+## 2015-12-27 [2] caching enhance
+
