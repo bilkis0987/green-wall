@@ -5438,3 +5438,5 @@
 
 ## 2015-12-28 [1] component add
 
+## 2015-12-28 [2] logging implement
+
