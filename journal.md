@@ -5446,3 +5446,5 @@
 
 ## 2015-12-29 [2] search implement
 
+## 2015-12-29 [3] performance refactor
+
