@@ -5454,3 +5454,5 @@
 
 ## 2015-12-30 [3] styling setup
 
+## 2015-12-31 [1] typescript fix
+
