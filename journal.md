@@ -5456,3 +5456,5 @@
 
 ## 2015-12-31 [1] typescript fix
 
+## 2015-12-31 [2] state-management improve
+
