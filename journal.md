@@ -5564,3 +5564,5 @@
 
 ## 2022-05-01 [1] dashboard optimize
 
+## 2022-05-02 [1] state-management add
+
