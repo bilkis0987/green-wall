@@ -5568,3 +5568,5 @@
 
 ## 2022-05-03 [1] bugfix integrate
 
+## 2022-05-04 [1] state-management enhance
+
