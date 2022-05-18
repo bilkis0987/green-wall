@@ -5582,3 +5582,5 @@
 
 ## 2022-05-15 [3] dashboard enhance
 
+## 2022-05-18 [3] hooks configure
+
