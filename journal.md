@@ -5590,3 +5590,5 @@
 
 ## 2022-05-30 [5] dashboard refactor
 
+## 2022-05-31 [5] navigation optimize
+
