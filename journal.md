@@ -5592,3 +5592,5 @@
 
 ## 2022-05-31 [5] auth add
 
+## 2022-06-12 [7] bugfix integrate
+
