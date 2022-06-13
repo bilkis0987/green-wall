@@ -5594,3 +5594,5 @@
 
 ## 2022-06-12 [7] testing enhance
 
+## 2022-06-13 [7] component integrate
+
