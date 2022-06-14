@@ -5596,3 +5596,5 @@
 
 ## 2022-06-13 [7] component integrate
 
+## 2022-06-14 [7] validation add
+
