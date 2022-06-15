@@ -5598,3 +5598,5 @@
 
 ## 2022-06-14 [7] validation add
 
+## 2022-06-15 [7] state-management setup
+
