@@ -5600,3 +5600,5 @@
 
 ## 2022-06-15 [7] component integrate
 
+## 2022-06-16 [7] middleware implement
+
