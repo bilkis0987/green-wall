@@ -5600,3 +5600,5 @@
 
 ## 2022-06-15 [7] state-management setup
 
+## 2022-06-16 [7] hooks configure
+
