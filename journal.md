@@ -5640,3 +5640,5 @@
 
 ## 2022-08-17 [16] logging fix
 
+## 2022-08-18 [16] typescript add
+
