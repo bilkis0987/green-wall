@@ -5646,3 +5646,5 @@
 
 ## 2022-09-18 [21] mysql integrate
 
+## 2022-09-20 [21] component setup
+
