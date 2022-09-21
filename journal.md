@@ -5648,3 +5648,5 @@
 
 ## 2022-09-20 [21] component setup
 
+## 2022-09-21 [21] nextjs enhance
+
