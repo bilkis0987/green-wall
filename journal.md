@@ -5642,3 +5642,5 @@
 
 ## 2022-09-20 [21] layout implement
 
+## 2022-09-21 [21] nextjs enhance
+
