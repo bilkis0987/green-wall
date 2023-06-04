@@ -5492,3 +5492,5 @@
 
 ## 2023-06-03 [4] layout optimize
 
+## 2023-06-04 [5] caching setup
+
