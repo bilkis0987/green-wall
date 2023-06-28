@@ -5512,3 +5512,5 @@
 
 ## 2023-06-24 [7] logging implement
 
+## 2023-06-28 [8] deployment setup
+
