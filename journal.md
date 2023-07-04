@@ -5514,3 +5514,5 @@
 
 ## 2023-06-28 [8] deployment setup
 
+## 2023-07-04 [9] search integrate
+
