@@ -5518,3 +5518,5 @@
 
 ## 2023-07-06 [9] validation create
 
+## 2023-07-10 [10] refactor configure
+
