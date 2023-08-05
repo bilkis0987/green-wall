@@ -5536,3 +5536,5 @@
 
 ## 2023-08-04 [13] bugfix enhance
 
+## 2023-08-05 [13] mysql configure
+
