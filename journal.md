@@ -5546,3 +5546,5 @@
 
 ## 2023-08-16 [15] validation fix
 
+## 2023-08-20 [16] nextjs create
+
