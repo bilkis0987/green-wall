@@ -1466,3 +1466,5 @@
 
 ## 2024-01-02 [2] error-handling integrate
 
+## 2024-01-02 [3] frontend setup
+
