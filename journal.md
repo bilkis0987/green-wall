@@ -1472,3 +1472,5 @@
 
 ## 2024-01-03 [1] testing implement
 
+## 2024-01-03 [2] logging enhance
+
