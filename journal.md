@@ -1470,3 +1470,5 @@
 
 ## 2024-01-02 [4] performance update
 
+## 2024-01-03 [1] testing implement
+
