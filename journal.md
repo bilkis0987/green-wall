@@ -1478,3 +1478,5 @@
 
 ## 2024-01-04 [1] state-management integrate
 
+## 2024-01-04 [2] validation refactor
+
