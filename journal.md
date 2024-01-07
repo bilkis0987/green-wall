@@ -1490,3 +1490,5 @@
 
 ## 2024-01-07 [1] validation add
 
+## 2024-01-07 [2] nextjs refactor
+
