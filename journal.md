@@ -1492,3 +1492,5 @@
 
 ## 2024-01-07 [2] nextjs refactor
 
+## 2024-01-08 [1] security improve
+
