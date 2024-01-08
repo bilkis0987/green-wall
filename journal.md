@@ -1496,3 +1496,5 @@
 
 ## 2024-01-08 [2] navigation improve
 
+## 2024-01-08 [3] state-management fix
+
