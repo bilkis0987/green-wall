@@ -1516,3 +1516,5 @@
 
 ## 2024-01-12 [1] notification enhance
 
+## 2024-01-12 [2] nextjs enhance
+
