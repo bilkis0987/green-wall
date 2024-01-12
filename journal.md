@@ -1518,3 +1518,5 @@
 
 ## 2024-01-12 [2] nextjs enhance
 
+## 2024-01-12 [3] nextjs integrate
+
