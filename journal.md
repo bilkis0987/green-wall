@@ -1514,3 +1514,5 @@
 
 ## 2024-01-11 [2] testing implement
 
+## 2024-01-12 [1] notification enhance
+
