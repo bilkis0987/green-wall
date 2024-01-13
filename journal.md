@@ -1520,3 +1520,5 @@
 
 ## 2024-01-12 [3] nextjs integrate
 
+## 2024-01-13 [1] middleware fix
+
