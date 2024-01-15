@@ -1530,3 +1530,5 @@
 
 ## 2024-01-14 [3] refactor configure
 
+## 2024-01-15 [1] state-management update
+
