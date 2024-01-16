@@ -1532,3 +1532,5 @@
 
 ## 2024-01-15 [1] state-management update
 
+## 2024-01-16 [1] frontend integrate
+
