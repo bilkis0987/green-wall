@@ -1536,3 +1536,5 @@
 
 ## 2024-01-16 [2] styling fix
 
+## 2024-01-17 [1] navigation create
+
