@@ -1542,3 +1542,5 @@
 
 ## 2024-01-17 [3] testing integrate
 
+## 2024-01-18 [1] navigation implement
+
