@@ -1544,3 +1544,5 @@
 
 ## 2024-01-18 [1] navigation implement
 
+## 2024-01-18 [2] frontend configure
+
