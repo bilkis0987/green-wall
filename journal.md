@@ -1554,3 +1554,5 @@
 
 ## 2024-01-19 [2] performance add
 
+## 2024-01-19 [3] middleware implement
+
