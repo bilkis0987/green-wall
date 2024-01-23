@@ -1568,3 +1568,5 @@
 
 ## 2024-01-22 [4] nextjs configure
 
+## 2024-01-23 [1] documentation improve
+
