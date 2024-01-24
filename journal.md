@@ -1580,3 +1580,5 @@
 
 ## 2024-01-24 [2] typescript optimize
 
+## 2024-01-24 [3] layout refactor
+
