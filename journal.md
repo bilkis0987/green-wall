@@ -1578,3 +1578,5 @@
 
 ## 2024-01-24 [1] component improve
 
+## 2024-01-24 [2] typescript optimize
+
