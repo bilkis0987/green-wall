@@ -1584,3 +1584,5 @@
 
 ## 2024-01-24 [4] typescript create
 
+## 2024-01-25 [1] state-management enhance
+
