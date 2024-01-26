@@ -1590,3 +1590,5 @@
 
 ## 2024-01-26 [2] component update
 
+## 2024-01-26 [3] pagination implement
+
