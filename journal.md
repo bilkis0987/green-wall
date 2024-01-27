@@ -1592,3 +1592,5 @@
 
 ## 2024-01-26 [3] pagination implement
 
+## 2024-01-27 [1] filter refactor
+
