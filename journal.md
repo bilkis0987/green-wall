@@ -1594,3 +1594,5 @@
 
 ## 2024-01-27 [1] filter refactor
 
+## 2024-01-27 [2] logging configure
+
