@@ -1598,3 +1598,5 @@
 
 ## 2024-01-27 [3] backend implement
 
+## 2024-01-28 [1] middleware configure
+
