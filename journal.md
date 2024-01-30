@@ -1610,3 +1610,5 @@
 
 ## 2024-01-30 [1] deployment enhance
 
+## 2024-01-30 [2] state-management add
+
