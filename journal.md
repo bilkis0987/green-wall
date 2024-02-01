@@ -1622,3 +1622,5 @@
 
 ## 2024-01-31 [4] bugfix enhance
 
+## 2024-02-01 [1] state-management improve
+
