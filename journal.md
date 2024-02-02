@@ -1630,3 +1630,5 @@
 
 ## 2024-02-01 [4] database setup
 
+## 2024-02-02 [1] navigation configure
+
