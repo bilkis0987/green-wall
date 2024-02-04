@@ -1638,3 +1638,5 @@
 
 ## 2024-02-03 [3] deployment improve
 
+## 2024-02-04 [1] deployment optimize
+
