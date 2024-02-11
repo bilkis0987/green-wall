@@ -1670,3 +1670,5 @@
 
 ## 2024-02-11 [1] notification update
 
+## 2024-02-11 [2] mysql setup
+
