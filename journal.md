@@ -1678,3 +1678,5 @@
 
 ## 2024-02-13 [2] logging implement
 
+## 2024-02-13 [3] validation enhance
+
