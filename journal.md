@@ -1682,3 +1682,5 @@
 
 ## 2024-02-14 [1] styling create
 
+## 2024-02-14 [2] dashboard implement
+
