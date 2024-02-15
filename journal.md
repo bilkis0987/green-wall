@@ -1690,3 +1690,5 @@
 
 ## 2024-02-15 [1] bugfix create
 
+## 2024-02-15 [2] middleware configure
+
