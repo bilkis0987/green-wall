@@ -1712,3 +1712,5 @@
 
 ## 2024-02-19 [2] routing create
 
+## 2024-02-19 [3] frontend setup
+
