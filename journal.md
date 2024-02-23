@@ -1732,3 +1732,5 @@
 
 ## 2024-02-23 [2] typescript optimize
 
+## 2024-02-23 [3] upload setup
+
