@@ -1728,3 +1728,5 @@
 
 ## 2024-02-22 [1] backend create
 
+## 2024-02-23 [1] nextjs add
+
