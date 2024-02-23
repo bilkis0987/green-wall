@@ -1730,3 +1730,5 @@
 
 ## 2024-02-23 [1] nextjs add
 
+## 2024-02-23 [2] typescript optimize
+
