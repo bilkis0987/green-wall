@@ -1734,3 +1734,5 @@
 
 ## 2024-02-23 [3] upload setup
 
+## 2024-02-24 [1] frontend add
+
