@@ -1736,3 +1736,5 @@
 
 ## 2024-02-24 [1] frontend add
 
+## 2024-02-25 [1] refactor configure
+
