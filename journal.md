@@ -1740,3 +1740,5 @@
 
 ## 2024-02-26 [1] layout fix
 
+## 2024-02-26 [2] frontend implement
+
