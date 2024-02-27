@@ -1744,3 +1744,5 @@
 
 ## 2024-02-27 [1] nextjs setup
 
+## 2024-02-27 [2] refactor optimize
+
