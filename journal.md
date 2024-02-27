@@ -1742,3 +1742,5 @@
 
 ## 2024-02-26 [2] frontend implement
 
+## 2024-02-27 [1] nextjs setup
+
