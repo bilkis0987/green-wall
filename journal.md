@@ -1748,3 +1748,5 @@
 
 ## 2024-02-28 [1] search refactor
 
+## 2024-02-28 [2] upload configure
+
