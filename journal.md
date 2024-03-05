@@ -1778,3 +1778,5 @@
 
 ## 2024-03-05 [2] notification fix
 
+## 2024-03-05 [3] state-management optimize
+
