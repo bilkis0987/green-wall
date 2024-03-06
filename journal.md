@@ -1786,3 +1786,5 @@
 
 ## 2024-03-06 [3] filter optimize
 
+## 2024-03-06 [4] caching refactor
+
