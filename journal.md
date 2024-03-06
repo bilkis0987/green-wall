@@ -1780,3 +1780,5 @@
 
 ## 2024-03-05 [3] state-management optimize
 
+## 2024-03-06 [1] validation fix
+
