@@ -1790,3 +1790,5 @@
 
 ## 2024-03-07 [1] typescript integrate
 
+## 2024-03-07 [2] auth update
+
