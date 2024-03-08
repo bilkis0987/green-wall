@@ -1798,3 +1798,5 @@
 
 ## 2024-03-08 [1] navigation update
 
+## 2024-03-08 [2] logging configure
+
