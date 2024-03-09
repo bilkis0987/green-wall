@@ -1804,3 +1804,5 @@
 
 ## 2024-03-08 [4] state-management enhance
 
+## 2024-03-09 [1] caching refactor
+
