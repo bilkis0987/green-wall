@@ -1844,3 +1844,5 @@
 
 ## 2024-03-16 [1] layout refactor
 
+## 2024-03-16 [2] notification enhance
+
