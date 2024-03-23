@@ -1882,3 +1882,5 @@
 
 ## 2024-03-22 [3] notification update
 
+## 2024-03-23 [1] dashboard optimize
+
