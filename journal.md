@@ -1892,3 +1892,5 @@
 
 ## 2024-03-24 [2] routing implement
 
+## 2024-03-24 [3] navigation setup
+
