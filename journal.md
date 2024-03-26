@@ -1900,3 +1900,5 @@
 
 ## 2024-03-26 [2] state-management integrate
 
+## 2024-03-26 [3] auth configure
+
