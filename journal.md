@@ -1902,3 +1902,5 @@
 
 ## 2024-03-26 [3] auth configure
 
+## 2024-03-26 [4] nextjs optimize
+
