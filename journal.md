@@ -1904,3 +1904,5 @@
 
 ## 2024-03-26 [4] nextjs optimize
 
+## 2024-03-27 [1] search create
+
