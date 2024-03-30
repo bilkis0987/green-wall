@@ -1922,3 +1922,5 @@
 
 ## 2024-03-30 [3] profile improve
 
+## 2024-03-30 [4] notification setup
+
