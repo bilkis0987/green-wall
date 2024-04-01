@@ -1932,3 +1932,5 @@
 
 ## 2024-03-31 [4] bugfix create
 
+## 2024-04-01 [1] state-management optimize
+
