@@ -1936,3 +1936,5 @@
 
 ## 2024-04-02 [1] hooks implement
 
+## 2024-04-02 [2] deployment implement
+
