@@ -1958,3 +1958,5 @@
 
 ## 2024-04-05 [2] search create
 
+## 2024-04-06 [1] nextjs improve
+
