@@ -1960,3 +1960,5 @@
 
 ## 2024-04-06 [1] nextjs improve
 
+## 2024-04-07 [1] testing setup
+
