@@ -1968,3 +1968,5 @@
 
 ## 2024-04-10 [1] form add
 
+## 2024-04-11 [1] nextjs configure
+
