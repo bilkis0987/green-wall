@@ -1972,3 +1972,5 @@
 
 ## 2024-04-12 [1] documentation add
 
+## 2024-04-13 [1] caching enhance
+
