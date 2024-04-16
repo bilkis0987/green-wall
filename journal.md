@@ -1990,3 +1990,5 @@
 
 ## 2024-04-16 [2] frontend setup
 
+## 2024-04-16 [3] database implement
+
