@@ -1988,3 +1988,5 @@
 
 ## 2024-04-16 [1] component refactor
 
+## 2024-04-16 [2] frontend setup
+
