@@ -1992,3 +1992,5 @@
 
 ## 2024-04-16 [3] database implement
 
+## 2024-04-17 [1] nextjs setup
+
