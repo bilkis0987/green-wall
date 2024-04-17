@@ -1994,3 +1994,5 @@
 
 ## 2024-04-17 [1] nextjs setup
 
+## 2024-04-17 [2] state-management integrate
+
