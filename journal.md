@@ -2010,3 +2010,5 @@
 
 ## 2024-04-19 [3] component implement
 
+## 2024-04-19 [4] state-management refactor
+
