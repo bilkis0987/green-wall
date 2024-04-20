@@ -2012,3 +2012,5 @@
 
 ## 2024-04-19 [4] state-management refactor
 
+## 2024-04-20 [1] layout refactor
+
