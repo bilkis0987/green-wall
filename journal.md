@@ -2014,3 +2014,5 @@
 
 ## 2024-04-20 [1] layout refactor
 
+## 2024-04-21 [1] navigation setup
+
