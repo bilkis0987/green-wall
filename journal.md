@@ -2030,3 +2030,5 @@
 
 ## 2024-04-22 [4] deployment integrate
 
+## 2024-04-23 [1] deployment optimize
+
