@@ -2032,3 +2032,5 @@
 
 ## 2024-04-23 [1] deployment optimize
 
+## 2024-04-23 [2] performance setup
+
