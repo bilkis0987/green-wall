@@ -2058,3 +2058,5 @@
 
 ## 2024-04-30 [1] middleware improve
 
+## 2024-04-30 [2] auth optimize
+
