@@ -2076,3 +2076,5 @@
 
 ## 2024-05-04 [1] upload fix
 
+## 2024-05-04 [2] typescript update
+
