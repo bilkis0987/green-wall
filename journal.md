@@ -2078,3 +2078,5 @@
 
 ## 2024-05-04 [2] typescript update
 
+## 2024-05-04 [3] state-management create
+
