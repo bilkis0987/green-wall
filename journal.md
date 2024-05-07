@@ -2094,3 +2094,5 @@
 
 ## 2024-05-06 [4] frontend enhance
 
+## 2024-05-07 [1] middleware configure
+
