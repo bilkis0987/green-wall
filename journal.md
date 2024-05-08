@@ -2100,3 +2100,5 @@
 
 ## 2024-05-08 [2] state-management implement
 
+## 2024-05-08 [3] notification setup
+
