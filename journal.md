@@ -2098,3 +2098,5 @@
 
 ## 2024-05-08 [1] api create
 
+## 2024-05-08 [2] state-management implement
+
