@@ -2106,3 +2106,5 @@
 
 ## 2024-05-09 [2] middleware refactor
 
+## 2024-05-09 [3] auth fix
+
