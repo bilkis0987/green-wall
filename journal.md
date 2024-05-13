@@ -2122,3 +2122,5 @@
 
 ## 2024-05-13 [1] frontend add
 
+## 2024-05-13 [2] layout setup
+
