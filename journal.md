@@ -2120,3 +2120,5 @@
 
 ## 2024-05-12 [1] logging integrate
 
+## 2024-05-13 [1] frontend add
+
