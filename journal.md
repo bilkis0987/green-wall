@@ -2134,3 +2134,5 @@
 
 ## 2024-05-15 [1] auth setup
 
+## 2024-05-15 [2] navigation optimize
+
