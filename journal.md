@@ -2136,3 +2136,5 @@
 
 ## 2024-05-15 [2] navigation optimize
 
+## 2024-05-16 [1] frontend enhance
+
