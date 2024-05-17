@@ -2138,3 +2138,5 @@
 
 ## 2024-05-16 [1] frontend enhance
 
+## 2024-05-17 [1] nextjs setup
+
