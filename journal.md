@@ -2140,3 +2140,5 @@
 
 ## 2024-05-17 [1] nextjs setup
 
+## 2024-05-18 [1] security setup
+
