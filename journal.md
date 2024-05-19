@@ -2148,3 +2148,5 @@
 
 ## 2024-05-19 [1] auth refactor
 
+## 2024-05-19 [2] navigation configure
+
