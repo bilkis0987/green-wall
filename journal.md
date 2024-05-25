@@ -2176,3 +2176,5 @@
 
 ## 2024-05-24 [4] nextjs create
 
+## 2024-05-25 [1] refactor setup
+
