@@ -2186,3 +2186,5 @@
 
 ## 2024-05-26 [1] frontend implement
 
+## 2024-05-26 [2] search add
+
