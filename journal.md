@@ -2188,3 +2188,5 @@
 
 ## 2024-05-26 [2] search add
 
+## 2024-05-26 [3] frontend integrate
+
