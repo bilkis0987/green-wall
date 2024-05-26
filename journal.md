@@ -2190,3 +2190,5 @@
 
 ## 2024-05-26 [3] frontend integrate
 
+## 2024-05-26 [4] middleware enhance
+
