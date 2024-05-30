@@ -2210,3 +2210,5 @@
 
 ## 2024-05-30 [2] styling fix
 
+## 2024-05-30 [3] state-management improve
+
