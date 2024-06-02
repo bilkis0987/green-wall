@@ -2228,3 +2228,5 @@
 
 ## 2024-06-02 [1] database configure
 
+## 2024-06-02 [2] routing setup
+
