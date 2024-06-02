@@ -2226,3 +2226,5 @@
 
 ## 2024-06-01 [3] layout refactor
 
+## 2024-06-02 [1] database configure
+
