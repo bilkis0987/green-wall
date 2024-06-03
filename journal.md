@@ -2232,3 +2232,5 @@
 
 ## 2024-06-03 [1] performance update
 
+## 2024-06-03 [2] frontend add
+
