@@ -2242,3 +2242,5 @@
 
 ## 2024-06-05 [1] bugfix enhance
 
+## 2024-06-06 [1] middleware optimize
+
