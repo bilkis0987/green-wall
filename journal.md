@@ -2252,3 +2252,5 @@
 
 ## 2024-06-07 [3] middleware fix
 
+## 2024-06-08 [1] bugfix update
+
