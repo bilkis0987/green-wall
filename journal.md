@@ -2284,3 +2284,5 @@
 
 ## 2024-06-13 [1] hooks enhance
 
+## 2024-06-13 [2] caching optimize
+
