@@ -2296,3 +2296,5 @@
 
 ## 2024-06-15 [3] filter refactor
 
+## 2024-06-15 [4] nextjs refactor
+
