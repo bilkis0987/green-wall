@@ -2292,3 +2292,5 @@
 
 ## 2024-06-15 [1] routing integrate
 
+## 2024-06-15 [2] dashboard integrate
+
