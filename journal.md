@@ -2298,3 +2298,5 @@
 
 ## 2024-06-15 [4] nextjs refactor
 
+## 2024-06-16 [1] state-management configure
+
