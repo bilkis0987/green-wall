@@ -2302,3 +2302,5 @@
 
 ## 2024-06-16 [2] validation optimize
 
+## 2024-06-17 [1] navigation add
+
