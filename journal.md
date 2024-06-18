@@ -2304,3 +2304,5 @@
 
 ## 2024-06-17 [1] navigation add
 
+## 2024-06-18 [1] state-management improve
+
