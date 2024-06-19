@@ -2312,3 +2312,5 @@
 
 ## 2024-06-19 [2] dashboard configure
 
+## 2024-06-19 [3] state-management refactor
+
