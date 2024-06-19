@@ -2314,3 +2314,5 @@
 
 ## 2024-06-19 [3] state-management refactor
 
+## 2024-06-19 [4] auth enhance
+
