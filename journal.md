@@ -2310,3 +2310,5 @@
 
 ## 2024-06-19 [1] middleware improve
 
+## 2024-06-19 [2] dashboard configure
+
