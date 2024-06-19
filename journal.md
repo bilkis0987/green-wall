@@ -2308,3 +2308,5 @@
 
 ## 2024-06-18 [2] navigation enhance
 
+## 2024-06-19 [1] middleware improve
+
