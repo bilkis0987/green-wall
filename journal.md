@@ -2326,3 +2326,5 @@
 
 ## 2024-06-22 [3] pagination implement
 
+## 2024-06-22 [4] frontend improve
+
