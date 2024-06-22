@@ -2320,3 +2320,5 @@
 
 ## 2024-06-21 [1] testing improve
 
+## 2024-06-22 [1] dashboard refactor
+
