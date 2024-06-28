@@ -2350,3 +2350,5 @@
 
 ## 2024-06-28 [1] frontend setup
 
+## 2024-06-28 [2] middleware implement
+
