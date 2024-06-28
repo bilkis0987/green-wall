@@ -2348,3 +2348,5 @@
 
 ## 2024-06-27 [1] notification add
 
+## 2024-06-28 [1] frontend setup
+
