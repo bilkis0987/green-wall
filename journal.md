@@ -2352,3 +2352,5 @@
 
 ## 2024-06-28 [2] middleware implement
 
+## 2024-06-28 [3] layout setup
+
