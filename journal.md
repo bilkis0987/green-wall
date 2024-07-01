@@ -2362,3 +2362,5 @@
 
 ## 2024-07-01 [1] upload improve
 
+## 2024-07-01 [2] logging add
+
