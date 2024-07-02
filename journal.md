@@ -2368,3 +2368,5 @@
 
 ## 2024-07-01 [4] form implement
 
+## 2024-07-02 [1] nextjs refactor
+
