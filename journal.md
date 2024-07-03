@@ -2370,3 +2370,5 @@
 
 ## 2024-07-02 [1] nextjs refactor
 
+## 2024-07-03 [1] routing refactor
+
