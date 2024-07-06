@@ -2384,3 +2384,5 @@
 
 ## 2024-07-06 [1] api configure
 
+## 2024-07-06 [2] search implement
+
