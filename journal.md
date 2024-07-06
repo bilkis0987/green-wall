@@ -2382,3 +2382,5 @@
 
 ## 2024-07-05 [2] performance optimize
 
+## 2024-07-06 [1] api configure
+
