@@ -2388,3 +2388,5 @@
 
 ## 2024-07-06 [3] styling setup
 
+## 2024-07-06 [4] frontend improve
+
