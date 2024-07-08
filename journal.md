@@ -2394,3 +2394,5 @@
 
 ## 2024-07-08 [1] nextjs setup
 
+## 2024-07-08 [2] hooks enhance
+
