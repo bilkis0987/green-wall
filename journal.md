@@ -2392,3 +2392,5 @@
 
 ## 2024-07-07 [1] testing implement
 
+## 2024-07-08 [1] nextjs setup
+
