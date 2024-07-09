@@ -2402,3 +2402,5 @@
 
 ## 2024-07-09 [2] bugfix add
 
+## 2024-07-09 [3] nextjs improve
+
