@@ -2408,3 +2408,5 @@
 
 ## 2024-07-10 [2] documentation optimize
 
+## 2024-07-10 [3] deployment refactor
+
