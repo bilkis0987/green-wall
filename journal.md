@@ -2412,3 +2412,5 @@
 
 ## 2024-07-11 [1] nextjs optimize
 
+## 2024-07-11 [2] routing implement
+
