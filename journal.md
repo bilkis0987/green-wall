@@ -2410,3 +2410,5 @@
 
 ## 2024-07-10 [3] deployment refactor
 
+## 2024-07-11 [1] nextjs optimize
+
