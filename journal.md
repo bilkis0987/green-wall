@@ -2418,3 +2418,5 @@
 
 ## 2024-07-12 [1] caching configure
 
+## 2024-07-12 [2] bugfix update
+
