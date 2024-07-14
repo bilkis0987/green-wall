@@ -2430,3 +2430,5 @@
 
 ## 2024-07-13 [4] nextjs setup
 
+## 2024-07-14 [1] middleware enhance
+
