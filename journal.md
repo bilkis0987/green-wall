@@ -2438,3 +2438,5 @@
 
 ## 2024-07-16 [1] nextjs refactor
 
+## 2024-07-16 [2] hooks configure
+
