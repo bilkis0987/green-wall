@@ -2436,3 +2436,5 @@
 
 ## 2024-07-15 [1] middleware create
 
+## 2024-07-16 [1] nextjs refactor
+
