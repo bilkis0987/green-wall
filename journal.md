@@ -2458,3 +2458,5 @@
 
 ## 2024-07-20 [1] refactor update
 
+## 2024-07-20 [2] nextjs integrate
+
