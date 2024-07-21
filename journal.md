@@ -2460,3 +2460,5 @@
 
 ## 2024-07-20 [2] nextjs integrate
 
+## 2024-07-21 [1] notification setup
+
