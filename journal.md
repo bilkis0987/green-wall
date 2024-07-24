@@ -2474,3 +2474,5 @@
 
 ## 2024-07-23 [1] logging add
 
+## 2024-07-24 [1] search configure
+
