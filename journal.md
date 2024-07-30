@@ -2500,3 +2500,5 @@
 
 ## 2024-07-30 [2] performance update
 
+## 2024-07-30 [3] state-management configure
+
