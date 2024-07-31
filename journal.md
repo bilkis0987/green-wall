@@ -2502,3 +2502,5 @@
 
 ## 2024-07-30 [3] state-management configure
 
+## 2024-07-31 [1] nextjs fix
+
