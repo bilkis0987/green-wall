@@ -2504,3 +2504,5 @@
 
 ## 2024-07-31 [1] nextjs fix
 
+## 2024-07-31 [2] upload enhance
+
