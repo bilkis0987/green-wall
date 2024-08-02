@@ -2514,3 +2514,5 @@
 
 ## 2024-08-02 [1] refactor fix
 
+## 2024-08-02 [2] typescript configure
+
