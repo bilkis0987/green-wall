@@ -2524,3 +2524,5 @@
 
 ## 2024-08-03 [2] state-management optimize
 
+## 2024-08-03 [3] navigation setup
+
