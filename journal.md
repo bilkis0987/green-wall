@@ -2526,3 +2526,5 @@
 
 ## 2024-08-03 [3] navigation setup
 
+## 2024-08-03 [4] database refactor
+
