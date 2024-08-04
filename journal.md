@@ -2528,3 +2528,5 @@
 
 ## 2024-08-03 [4] database refactor
 
+## 2024-08-04 [1] security optimize
+
