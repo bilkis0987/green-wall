@@ -2548,3 +2548,5 @@
 
 ## 2024-08-06 [4] typescript add
 
+## 2024-08-07 [1] dashboard refactor
+
