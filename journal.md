@@ -2564,3 +2564,5 @@
 
 ## 2024-08-09 [3] backend enhance
 
+## 2024-08-10 [1] mysql configure
+
