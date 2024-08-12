@@ -2572,3 +2572,5 @@
 
 ## 2024-08-11 [2] error-handling add
 
+## 2024-08-12 [1] notification implement
+
