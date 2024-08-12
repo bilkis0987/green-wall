@@ -2574,3 +2574,5 @@
 
 ## 2024-08-12 [1] notification implement
 
+## 2024-08-12 [2] performance optimize
+
