@@ -2582,3 +2582,5 @@
 
 ## 2024-08-13 [1] express setup
 
+## 2024-08-13 [2] typescript implement
+
