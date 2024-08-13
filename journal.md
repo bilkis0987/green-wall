@@ -2586,3 +2586,5 @@
 
 ## 2024-08-13 [3] backend enhance
 
+## 2024-08-13 [4] frontend improve
+
