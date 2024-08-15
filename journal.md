@@ -2594,3 +2594,5 @@
 
 ## 2024-08-14 [3] refactor update
 
+## 2024-08-15 [1] auth optimize
+
