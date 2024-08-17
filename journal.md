@@ -2608,3 +2608,5 @@
 
 ## 2024-08-17 [1] component create
 
+## 2024-08-17 [2] deployment implement
+
