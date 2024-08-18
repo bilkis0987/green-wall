@@ -2610,3 +2610,5 @@
 
 ## 2024-08-17 [2] deployment implement
 
+## 2024-08-18 [1] layout improve
+
