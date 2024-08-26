@@ -2642,3 +2642,5 @@
 
 ## 2024-08-26 [1] filter improve
 
+## 2024-08-26 [2] navigation optimize
+
