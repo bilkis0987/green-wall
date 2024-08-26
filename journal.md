@@ -2646,3 +2646,5 @@
 
 ## 2024-08-26 [3] backend optimize
 
+## 2024-08-26 [4] deployment refactor
+
