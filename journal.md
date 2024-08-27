@@ -2650,3 +2650,5 @@
 
 ## 2024-08-27 [1] typescript enhance
 
+## 2024-08-27 [2] refactor setup
+
