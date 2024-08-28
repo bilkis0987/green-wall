@@ -2654,3 +2654,5 @@
 
 ## 2024-08-27 [3] upload optimize
 
+## 2024-08-28 [1] security configure
+
