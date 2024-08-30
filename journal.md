@@ -2660,3 +2660,5 @@
 
 ## 2024-08-29 [2] security optimize
 
+## 2024-08-30 [1] frontend refactor
+
