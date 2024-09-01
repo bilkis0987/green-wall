@@ -2676,3 +2676,5 @@
 
 ## 2024-08-31 [4] bugfix create
 
+## 2024-09-01 [1] nextjs enhance
+
