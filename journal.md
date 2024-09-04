@@ -2690,3 +2690,5 @@
 
 ## 2024-09-04 [2] performance refactor
 
+## 2024-09-04 [3] auth implement
+
