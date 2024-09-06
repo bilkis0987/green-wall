@@ -2696,3 +2696,5 @@
 
 ## 2024-09-06 [1] api enhance
 
+## 2024-09-06 [2] component configure
+
