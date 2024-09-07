@@ -2698,3 +2698,5 @@
 
 ## 2024-09-06 [2] component configure
 
+## 2024-09-07 [1] caching add
+
