@@ -2700,3 +2700,5 @@
 
 ## 2024-09-07 [1] caching add
 
+## 2024-09-08 [1] state-management integrate
+
