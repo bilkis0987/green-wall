@@ -2706,3 +2706,5 @@
 
 ## 2024-09-08 [3] frontend fix
 
+## 2024-09-09 [1] mysql configure
+
