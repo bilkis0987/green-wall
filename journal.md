@@ -2710,3 +2710,5 @@
 
 ## 2024-09-10 [1] notification optimize
 
+## 2024-09-10 [2] auth improve
+
