@@ -2732,3 +2732,5 @@
 
 ## 2024-09-14 [2] bugfix implement
 
+## 2024-09-14 [3] typescript configure
+
