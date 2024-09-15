@@ -2734,3 +2734,5 @@
 
 ## 2024-09-14 [3] typescript configure
 
+## 2024-09-15 [1] performance optimize
+
