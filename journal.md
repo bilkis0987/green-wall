@@ -2738,3 +2738,5 @@
 
 ## 2024-09-16 [1] component fix
 
+## 2024-09-16 [2] notification implement
+
