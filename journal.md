@@ -2740,3 +2740,5 @@
 
 ## 2024-09-16 [2] notification implement
 
+## 2024-09-17 [1] frontend create
+
