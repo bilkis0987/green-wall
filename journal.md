@@ -2746,3 +2746,5 @@
 
 ## 2024-09-19 [1] nextjs integrate
 
+## 2024-09-19 [2] bugfix update
+
