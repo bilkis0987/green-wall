@@ -2744,3 +2744,5 @@
 
 ## 2024-09-18 [1] dashboard optimize
 
+## 2024-09-19 [1] nextjs integrate
+
