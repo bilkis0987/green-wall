@@ -2758,3 +2758,5 @@
 
 ## 2024-09-20 [3] form optimize
 
+## 2024-09-20 [4] nextjs refactor
+
