@@ -2752,3 +2752,5 @@
 
 ## 2024-09-19 [4] profile implement
 
+## 2024-09-20 [1] frontend optimize
+
