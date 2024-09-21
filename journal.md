@@ -2764,3 +2764,5 @@
 
 ## 2024-09-21 [2] caching improve
 
+## 2024-09-21 [3] dashboard integrate
+
