@@ -2760,3 +2760,5 @@
 
 ## 2024-09-20 [4] nextjs refactor
 
+## 2024-09-21 [1] typescript improve
+
