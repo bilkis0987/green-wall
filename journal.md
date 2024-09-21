@@ -2762,3 +2762,5 @@
 
 ## 2024-09-21 [1] typescript improve
 
+## 2024-09-21 [2] caching improve
+
