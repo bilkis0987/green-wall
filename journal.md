@@ -2770,3 +2770,5 @@
 
 ## 2024-09-23 [1] typescript setup
 
+## 2024-09-23 [2] middleware update
+
