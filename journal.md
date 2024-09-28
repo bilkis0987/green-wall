@@ -2792,3 +2792,5 @@
 
 ## 2024-09-28 [1] notification improve
 
+## 2024-09-28 [2] state-management enhance
+
