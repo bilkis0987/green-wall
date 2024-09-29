@@ -2796,3 +2796,5 @@
 
 ## 2024-09-28 [3] refactor update
 
+## 2024-09-29 [1] state-management improve
+
