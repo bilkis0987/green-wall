@@ -2804,3 +2804,5 @@
 
 ## 2024-09-30 [2] upload configure
 
+## 2024-10-01 [1] auth optimize
+
