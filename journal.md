@@ -2814,3 +2814,5 @@
 
 ## 2024-10-02 [2] documentation configure
 
+## 2024-10-02 [3] error-handling implement
+
