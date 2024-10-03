@@ -2818,3 +2818,5 @@
 
 ## 2024-10-02 [4] styling implement
 
+## 2024-10-03 [1] search configure
+
