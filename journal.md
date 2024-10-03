@@ -2822,3 +2822,5 @@
 
 ## 2024-10-03 [2] middleware optimize
 
+## 2024-10-03 [3] nextjs fix
+
