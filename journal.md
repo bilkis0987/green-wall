@@ -2828,3 +2828,5 @@
 
 ## 2024-10-04 [1] documentation implement
 
+## 2024-10-04 [2] refactor configure
+
