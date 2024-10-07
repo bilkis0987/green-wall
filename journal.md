@@ -2840,3 +2840,5 @@
 
 ## 2024-10-07 [2] typescript setup
 
+## 2024-10-07 [3] routing enhance
+
