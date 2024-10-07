@@ -2838,3 +2838,5 @@
 
 ## 2024-10-07 [1] bugfix optimize
 
+## 2024-10-07 [2] typescript setup
+
