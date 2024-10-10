@@ -2860,3 +2860,5 @@
 
 ## 2024-10-10 [3] typescript optimize
 
+## 2024-10-10 [4] auth refactor
+
