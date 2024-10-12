@@ -2872,3 +2872,5 @@
 
 ## 2024-10-12 [2] notification update
 
+## 2024-10-12 [3] navigation implement
+
