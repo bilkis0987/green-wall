@@ -2878,3 +2878,5 @@
 
 ## 2024-10-13 [1] profile setup
 
+## 2024-10-13 [2] navigation implement
+
