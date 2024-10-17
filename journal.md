@@ -2894,3 +2894,5 @@
 
 ## 2024-10-17 [1] upload optimize
 
+## 2024-10-17 [2] database configure
+
