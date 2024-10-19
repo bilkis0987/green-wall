@@ -2898,3 +2898,5 @@
 
 ## 2024-10-18 [1] database setup
 
+## 2024-10-19 [1] typescript improve
+
