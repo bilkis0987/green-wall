@@ -2908,3 +2908,5 @@
 
 ## 2024-10-20 [2] hooks setup
 
+## 2024-10-20 [3] navigation optimize
+
