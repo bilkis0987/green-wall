@@ -2906,3 +2906,5 @@
 
 ## 2024-10-20 [1] security implement
 
+## 2024-10-20 [2] hooks setup
+
