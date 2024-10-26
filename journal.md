@@ -2936,3 +2936,5 @@
 
 ## 2024-10-26 [1] performance setup
 
+## 2024-10-26 [2] deployment implement
+
