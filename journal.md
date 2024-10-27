@@ -2946,3 +2946,5 @@
 
 ## 2024-10-27 [2] bugfix integrate
 
+## 2024-10-27 [3] auth update
+
