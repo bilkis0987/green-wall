@@ -2950,3 +2950,5 @@
 
 ## 2024-10-27 [4] testing setup
 
+## 2024-10-28 [1] component setup
+
