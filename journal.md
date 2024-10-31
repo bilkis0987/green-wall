@@ -2958,3 +2958,5 @@
 
 ## 2024-10-31 [1] backend enhance
 
+## 2024-10-31 [2] mysql refactor
+
