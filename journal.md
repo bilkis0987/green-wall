@@ -2968,3 +2968,5 @@
 
 ## 2024-11-01 [3] hooks refactor
 
+## 2024-11-02 [1] middleware optimize
+
