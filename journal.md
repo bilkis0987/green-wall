@@ -2972,3 +2972,5 @@
 
 ## 2024-11-02 [2] middleware configure
 
+## 2024-11-02 [3] mysql create
+
