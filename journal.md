@@ -2970,3 +2970,5 @@
 
 ## 2024-11-02 [1] middleware optimize
 
+## 2024-11-02 [2] middleware configure
+
