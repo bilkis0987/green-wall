@@ -2982,3 +2982,5 @@
 
 ## 2024-11-04 [1] security update
 
+## 2024-11-04 [2] mysql add
+
