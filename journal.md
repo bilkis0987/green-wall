@@ -2992,3 +2992,5 @@
 
 ## 2024-11-05 [2] middleware improve
 
+## 2024-11-06 [1] component add
+
