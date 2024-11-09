@@ -3004,3 +3004,5 @@
 
 ## 2024-11-08 [3] hooks implement
 
+## 2024-11-09 [1] nextjs refactor
+
