@@ -3012,3 +3012,5 @@
 
 ## 2024-11-10 [2] api refactor
 
+## 2024-11-11 [1] frontend integrate
+
