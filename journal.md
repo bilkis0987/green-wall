@@ -3032,3 +3032,5 @@
 
 ## 2024-11-13 [4] styling add
 
+## 2024-11-14 [1] state-management integrate
+
