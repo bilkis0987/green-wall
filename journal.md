@@ -3070,3 +3070,5 @@
 
 ## 2024-11-21 [2] database setup
 
+## 2024-11-21 [3] logging refactor
+
