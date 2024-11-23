@@ -3082,3 +3082,5 @@
 
 ## 2024-11-23 [1] frontend integrate
 
+## 2024-11-23 [2] profile configure
+
