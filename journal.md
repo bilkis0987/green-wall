@@ -3080,3 +3080,5 @@
 
 ## 2024-11-22 [3] error-handling update
 
+## 2024-11-23 [1] frontend integrate
+
