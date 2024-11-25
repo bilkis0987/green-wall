@@ -3088,3 +3088,5 @@
 
 ## 2024-11-24 [2] typescript improve
 
+## 2024-11-25 [1] error-handling optimize
+
