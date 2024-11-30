@@ -3108,3 +3108,5 @@
 
 ## 2024-11-30 [1] form integrate
 
+## 2024-11-30 [2] mysql configure
+
