@@ -3112,3 +3112,5 @@
 
 ## 2024-11-30 [3] component improve
 
+## 2024-12-01 [1] mysql setup
+
