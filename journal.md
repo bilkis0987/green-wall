@@ -3116,3 +3116,5 @@
 
 ## 2024-12-01 [2] refactor integrate
 
+## 2024-12-01 [3] deployment configure
+
