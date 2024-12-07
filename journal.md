@@ -3140,3 +3140,5 @@
 
 ## 2024-12-07 [1] typescript add
 
+## 2024-12-07 [2] hooks configure
+
