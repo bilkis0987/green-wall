@@ -3146,3 +3146,5 @@
 
 ## 2024-12-07 [4] layout configure
 
+## 2024-12-08 [1] hooks refactor
+
