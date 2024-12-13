@@ -3170,3 +3170,5 @@
 
 ## 2024-12-13 [2] security add
 
+## 2024-12-13 [3] caching configure
+
