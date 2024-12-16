@@ -3182,3 +3182,5 @@
 
 ## 2024-12-15 [2] refactor setup
 
+## 2024-12-16 [1] error-handling integrate
+
