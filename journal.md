@@ -3186,3 +3186,5 @@
 
 ## 2024-12-16 [2] filter optimize
 
+## 2024-12-16 [3] caching improve
+
