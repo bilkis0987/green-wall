@@ -3196,3 +3196,5 @@
 
 ## 2024-12-18 [2] navigation configure
 
+## 2024-12-18 [3] nextjs improve
+
