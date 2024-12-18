@@ -3194,3 +3194,5 @@
 
 ## 2024-12-18 [1] api setup
 
+## 2024-12-18 [2] navigation configure
+
