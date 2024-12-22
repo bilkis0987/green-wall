@@ -3218,3 +3218,5 @@
 
 ## 2024-12-21 [4] frontend implement
 
+## 2024-12-22 [1] frontend enhance
+
