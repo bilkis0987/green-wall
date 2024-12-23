@@ -3220,3 +3220,5 @@
 
 ## 2024-12-22 [1] frontend enhance
 
+## 2024-12-23 [1] deployment configure
+
