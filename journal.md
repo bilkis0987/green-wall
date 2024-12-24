@@ -3222,3 +3222,5 @@
 
 ## 2024-12-23 [1] deployment configure
 
+## 2024-12-24 [1] backend setup
+
