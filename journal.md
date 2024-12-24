@@ -3226,3 +3226,5 @@
 
 ## 2024-12-24 [2] performance enhance
 
+## 2024-12-24 [3] refactor configure
+
