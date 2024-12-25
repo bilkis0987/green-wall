@@ -3228,3 +3228,5 @@
 
 ## 2024-12-24 [3] refactor configure
 
+## 2024-12-25 [1] error-handling setup
+
