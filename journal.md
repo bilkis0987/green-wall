@@ -3230,3 +3230,5 @@
 
 ## 2024-12-25 [1] error-handling setup
 
+## 2024-12-25 [2] caching improve
+
