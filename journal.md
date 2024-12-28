@@ -3242,3 +3242,5 @@
 
 ## 2024-12-27 [4] api configure
 
+## 2024-12-28 [1] auth refactor
+
