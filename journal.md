@@ -3250,3 +3250,5 @@
 
 ## 2024-12-29 [2] mysql optimize
 
+## 2024-12-29 [3] error-handling enhance
+
