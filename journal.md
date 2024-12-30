@@ -3254,3 +3254,5 @@
 
 ## 2024-12-29 [4] filter optimize
 
+## 2024-12-30 [1] nextjs fix
+
