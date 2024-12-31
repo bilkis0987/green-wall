@@ -3260,3 +3260,5 @@
 
 ## 2024-12-30 [3] profile implement
 
+## 2024-12-31 [1] hooks configure
+
